@@ -1,0 +1,680 @@
+[
+ {
+   "dosage form id": 38,
+   "dosage form name": "Capsule (Sustained Release)",
+   "slug": "capsule-sustained-release-38",
+   "brand names count": 65
+ },
+ {
+   "dosage form id": 109,
+   "dosage form name": "Capsule (Modified Release)",
+   "slug": "capsule-modified-release-109",
+   "brand names count": 36
+ },
+ {
+   "dosage form id": 80,
+   "dosage form name": "Capsule (Extended Release)",
+   "slug": "capsule-extended-release-80",
+   "brand names count": 9
+ },
+ {
+   "dosage form id": 60,
+   "dosage form name": "Capsule (Delayed Release)",
+   "slug": "capsule-delayed-release-60",
+   "brand names count": 438
+ },
+ {
+   "dosage form id": 82,
+   "dosage form name": "Capsule (Controlled Release)",
+   "slug": "capsule-controlled-release-82",
+   "brand names count": 4
+ },
+ {
+   "dosage form id": 2,
+   "dosage form name": "Capsule",
+   "slug": "capsule-2",
+   "brand names count": 2011
+ },
+ {
+   "dosage form id": 179,
+   "dosage form name": "Bolus Tablet",
+   "slug": "bolus-tablet-179",
+   "brand names count": 89
+ },
+ {
+   "dosage form id": 12,
+   "dosage form name": "Injection",
+   "slug": "injection-12",
+   "brand names count": 234
+ },
+ {
+   "dosage form id": 14,
+   "dosage form name": "Inhaler",
+   "slug": "inhaler-14",
+   "brand names count": 96
+ },
+ {
+   "dosage form id": 136,
+   "dosage form name": "Inhalation Capsule",
+   "slug": "inhalation-capsule-136",
+   "brand names count": 111
+ },
+ {
+   "dosage form id": 105,
+   "dosage form name": "IM/SC Injection",
+   "slug": "imsc-injection-105",
+   "brand names count": 36
+ },
+ {
+   "dosage form id": 68,
+   "dosage form name": "IM/IV Injection",
+   "slug": "imiv-injection-68",
+   "brand names count": 646
+ },
+ {
+   "dosage form id": 147,
+   "dosage form name": "IM/IA Injection",
+   "slug": "imia-injection-147",
+   "brand names count": 10
+ },
+ {
+   "dosage form id": 69,
+   "dosage form name": "IM Injection",
+   "slug": "im-injection-69",
+   "brand names count": 293
+ },
+ {
+   "dosage form id": 94,
+   "dosage form name": "Hand Rub",
+   "slug": "hand-rub-94",
+   "brand names count": 71
+ },
+ {
+   "dosage form id": 6,
+   "dosage form name": "Gel",
+   "slug": "gel-6",
+   "brand names count": 53
+ },
+ {
+   "dosage form id": 140,
+   "dosage form name": "Viscous Eye Drop",
+   "slug": "viscous-eye-drop-140",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 169,
+   "dosage form name": "Viscoelastic Solution",
+   "slug": "viscoelastic-solution-169",
+   "brand names count": 5
+ },
+ {
+   "dosage form id": 86,
+   "dosage form name": "Vaginal Tablet",
+   "slug": "vaginal-tablet-86",
+   "brand names count": 10
+ },
+ {
+   "dosage form id": 113,
+   "dosage form name": "Vaginal Suppository",
+   "slug": "vaginal-suppository-113",
+   "brand names count": 9
+ },
+ {
+   "dosage form id": 65,
+   "dosage form name": "Vaginal Pessary",
+   "slug": "vaginal-pessary-65",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 112,
+   "dosage form name": "Vaginal Gel",
+   "slug": "vaginal-gel-112",
+   "brand names count": 5
+ },
+ {
+   "dosage form id": 64,
+   "dosage form name": "Vaginal Cream",
+   "slug": "vaginal-cream-64",
+   "brand names count": 11
+ },
+ {
+   "dosage form id": 62,
+   "dosage form name": "Transdermal Patch",
+   "slug": "transdermal-patch-62",
+   "brand names count": 6
+ },
+ {
+   "dosage form id": 126,
+   "dosage form name": "Topical Suspension",
+   "slug": "topical-suspension-126",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 39,
+   "dosage form name": "Topical Spray",
+   "slug": "topical-spray-39",
+   "brand names count": 20
+ },
+ {
+   "dosage form id": 93,
+   "dosage form name": "Topical Solution",
+   "slug": "topical-solution-93",
+   "brand names count": 20
+ },
+ {
+   "dosage form id": 168,
+   "dosage form name": "Topical Powder",
+   "slug": "topical-powder-168",
+   "brand names count": 10
+ },
+ {
+   "dosage form id": 138,
+   "dosage form name": "Topical Gel",
+   "slug": "topical-gel-138",
+   "brand names count": 30
+ },
+ {
+   "dosage form id": 37,
+   "dosage form name": "Tablet (Sustained Release)",
+   "slug": "tablet-sustained-release-37",
+   "brand names count": 127
+ },
+ {
+   "dosage form id": 160,
+   "dosage form name": "Tablet (Prolonged Release)",
+   "slug": "tablet-prolonged-release-160",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 42,
+   "dosage form name": "Tablet (Modified Release)",
+   "slug": "tablet-modified-release-42",
+   "brand names count": 55
+ },
+ {
+   "dosage form id": 154,
+   "dosage form name": "Tablet (Immediate Release)",
+   "slug": "tablet-immediate-release-154",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 41,
+   "dosage form name": "Tablet (Extended Release)",
+   "slug": "tablet-extended-release-41",
+   "brand names count": 247
+ },
+ {
+   "dosage form id": 46,
+   "dosage form name": "Tablet (Enteric Coated)",
+   "slug": "tablet-enteric-coated-46",
+   "brand names count": 308
+ },
+ {
+   "dosage form id": 132,
+   "dosage form name": "Tablet (Delayed Release)",
+   "slug": "tablet-delayed-release-132",
+   "brand names count": 122
+ },
+ {
+   "dosage form id": 43,
+   "dosage form name": "Tablet (Controlled Release)",
+   "slug": "tablet-controlled-release-43",
+   "brand names count": 65
+ },
+ {
+   "dosage form id": 1,
+   "dosage form name": "Tablet",
+   "slug": "tablet-1",
+   "brand names count": 9368
+ },
+ {
+   "dosage form id": 3,
+   "dosage form name": "Syrup",
+   "slug": "syrup-3",
+   "brand names count": 1010
+ },
+ {
+   "dosage form id": 96,
+   "dosage form name": "Surgical Scrub",
+   "slug": "surgical-scrub-96",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 4,
+   "dosage form name": "Suppository",
+   "slug": "suppository-4",
+   "brand names count": 64
+ },
+ {
+   "dosage form id": 152,
+   "dosage form name": "Sublingual Tablet",
+   "slug": "sublingual-tablet-152",
+   "brand names count": 4
+ },
+ {
+   "dosage form id": 146,
+   "dosage form name": "Sprinkle Capsule",
+   "slug": "sprinkle-capsule-146",
+   "brand names count": 3
+ },
+ {
+   "dosage form id": 48,
+   "dosage form name": "Solution for Inhalation",
+   "slug": "solution-for-inhalation-48",
+   "brand names count": 9
+ },
+ {
+   "dosage form id": 85,
+   "dosage form name": "Solution",
+   "slug": "solution-85",
+   "brand names count": 37
+ },
+ {
+   "dosage form id": 125,
+   "dosage form name": "Shampoo",
+   "slug": "shampoo-125",
+   "brand names count": 14
+ },
+ {
+   "dosage form id": 90,
+   "dosage form name": "Scalp Solution",
+   "slug": "scalp-solution-90",
+   "brand names count": 21
+ },
+ {
+   "dosage form id": 127,
+   "dosage form name": "Scalp Ointment",
+   "slug": "scalp-ointment-127",
+   "brand names count": 3
+ },
+ {
+   "dosage form id": 89,
+   "dosage form name": "Scalp Lotion",
+   "slug": "scalp-lotion-89",
+   "brand names count": 4
+ },
+ {
+   "dosage form id": 67,
+   "dosage form name": "SC Injection",
+   "slug": "sc-injection-67",
+   "brand names count": 225
+ },
+ {
+   "dosage form id": 79,
+   "dosage form name": "Retard Tablet",
+   "slug": "retard-tablet-79",
+   "brand names count": 11
+ },
+ {
+   "dosage form id": 172,
+   "dosage form name": "Respirator Solution",
+   "slug": "respirator-solution-172",
+   "brand names count": 11
+ },
+ {
+   "dosage form id": 131,
+   "dosage form name": "Rectal Saline",
+   "slug": "rectal-saline-131",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 36,
+   "dosage form name": "Rectal Ointment",
+   "slug": "rectal-ointment-36",
+   "brand names count": 5
+ },
+ {
+   "dosage form id": 75,
+   "dosage form name": "Powder for Suspension",
+   "slug": "powder-for-suspension-75",
+   "brand names count": 1011
+ },
+ {
+   "dosage form id": 33,
+   "dosage form name": "Powder for Solution",
+   "slug": "powder-for-solution-33",
+   "brand names count": 73
+ },
+ {
+   "dosage form id": 44,
+   "dosage form name": "Powder for Injection",
+   "slug": "powder-for-injection-44",
+   "brand names count": 3
+ },
+ {
+   "dosage form id": 21,
+   "dosage form name": "Pediatric Drops",
+   "slug": "pediatric-drops-21",
+   "brand names count": 245
+ },
+ {
+   "dosage form id": 181,
+   "dosage form name": "OROS Tablet",
+   "slug": "oros-tablet-181",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 5,
+   "dosage form name": "Oral Suspension",
+   "slug": "oral-suspension-5",
+   "brand names count": 576
+ },
+ {
+   "dosage form id": 18,
+   "dosage form name": "Oral Solution",
+   "slug": "oral-solution-18",
+   "brand names count": 263
+ },
+ {
+   "dosage form id": 144,
+   "dosage form name": "Oral Soluble Film",
+   "slug": "oral-soluble-film-144",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 20,
+   "dosage form name": "Oral Powder",
+   "slug": "oral-powder-20",
+   "brand names count": 122
+ },
+ {
+   "dosage form id": 22,
+   "dosage form name": "Oral Paste",
+   "slug": "oral-paste-22",
+   "brand names count": 7
+ },
+ {
+   "dosage form id": 78,
+   "dosage form name": "Oral Gel",
+   "slug": "oral-gel-78",
+   "brand names count": 22
+ },
+ {
+   "dosage form id": 142,
+   "dosage form name": "Oral Emulsion",
+   "slug": "oral-emulsion-142",
+   "brand names count": 10
+ },
+ {
+   "dosage form id": 118,
+   "dosage form name": "Ophthalmic Suspension",
+   "slug": "ophthalmic-suspension-118",
+   "brand names count": 116
+ },
+ {
+   "dosage form id": 148,
+   "dosage form name": "Ophthalmic Solution",
+   "slug": "ophthalmic-solution-148",
+   "brand names count": 728
+ },
+ {
+   "dosage form id": 19,
+   "dosage form name": "Ophthalmic Ointment",
+   "slug": "ophthalmic-ointment-19",
+   "brand names count": 77
+ },
+ {
+   "dosage form id": 76,
+   "dosage form name": "Ophthalmic Gel",
+   "slug": "ophthalmic-gel-76",
+   "brand names count": 21
+ },
+ {
+   "dosage form id": 157,
+   "dosage form name": "Ophthalmic Emulsion",
+   "slug": "ophthalmic-emulsion-157",
+   "brand names count": 8
+ },
+ {
+   "dosage form id": 7,
+   "dosage form name": "Ointment",
+   "slug": "ointment-7",
+   "brand names count": 242
+ },
+ {
+   "dosage form id": 170,
+   "dosage form name": "Ocular Spray",
+   "slug": "ocular-spray-170",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 139,
+   "dosage form name": "Nebuliser Suspension",
+   "slug": "nebuliser-suspension-139",
+   "brand names count": 7
+ },
+ {
+   "dosage form id": 141,
+   "dosage form name": "Nebuliser Solution",
+   "slug": "nebuliser-solution-141",
+   "brand names count": 22
+ },
+ {
+   "dosage form id": 53,
+   "dosage form name": "Nasal Spray",
+   "slug": "nasal-spray-53",
+   "brand names count": 65
+ },
+ {
+   "dosage form id": 165,
+   "dosage form name": "Nasal Ointment",
+   "slug": "nasal-ointment-165",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 10,
+   "dosage form name": "Nasal Drop",
+   "slug": "nasal-drop-10",
+   "brand names count": 46
+ },
+ {
+   "dosage form id": 174,
+   "dosage form name": "Nail Lacquer",
+   "slug": "nail-lacquer-174",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 124,
+   "dosage form name": "Muscle Rub",
+   "slug": "muscle-rub-124",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 151,
+   "dosage form name": "MUPS Tablet",
+   "slug": "mups-tablet-151",
+   "brand names count": 43
+ },
+ {
+   "dosage form id": 95,
+   "dosage form name": "Mouthwash",
+   "slug": "mouthwash-95",
+   "brand names count": 36
+ },
+ {
+   "dosage form id": 176,
+   "dosage form name": "Microgranules",
+   "slug": "microgranules-176",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 88,
+   "dosage form name": "Medicated Bar",
+   "slug": "medicated-bar-88",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 9,
+   "dosage form name": "Lotion",
+   "slug": "lotion-9",
+   "brand names count": 45
+ },
+ {
+   "dosage form id": 63,
+   "dosage form name": "Long Acting Tablet",
+   "slug": "long-acting-tablet-63",
+   "brand names count": 3
+ },
+ {
+   "dosage form id": 166,
+   "dosage form name": "Long Acting Injection",
+   "slug": "long-acting-injection-166",
+   "brand names count": 3
+ },
+ {
+   "dosage form id": 92,
+   "dosage form name": "Liquid Cleanser Soap",
+   "slug": "liquid-cleanser-soap-92",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 162,
+   "dosage form name": "Liquid",
+   "slug": "liquid-162",
+   "brand names count": 14
+ },
+ {
+   "dosage form id": 133,
+   "dosage form name": "IV/SC Injection",
+   "slug": "ivsc-injection-133",
+   "brand names count": 52
+ },
+ {
+   "dosage form id": 134,
+   "dosage form name": "IV Injection or Infusion",
+   "slug": "iv-injection-or-infusion-134",
+   "brand names count": 159
+ },
+ {
+   "dosage form id": 70,
+   "dosage form name": "IV Injection",
+   "slug": "iv-injection-70",
+   "brand names count": 406
+ },
+ {
+   "dosage form id": 17,
+   "dosage form name": "IV Infusion",
+   "slug": "iv-infusion-17",
+   "brand names count": 509
+ },
+ {
+   "dosage form id": 108,
+   "dosage form name": "Irrigation Solution",
+   "slug": "irrigation-solution-108",
+   "brand names count": 7
+ },
+ {
+   "dosage form id": 119,
+   "dosage form name": "Intravitreal Injection",
+   "slug": "intravitreal-injection-119",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 59,
+   "dosage form name": "Intratracheal Suspension",
+   "slug": "intratracheal-suspension-59",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 107,
+   "dosage form name": "Intraspinal Injection",
+   "slug": "intraspinal-injection-107",
+   "brand names count": 9
+ },
+ {
+   "dosage form id": 180,
+   "dosage form name": "Intracameral Injection",
+   "slug": "intracameral-injection-180",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 104,
+   "dosage form name": "Intra-articular Injection",
+   "slug": "intra-articular-injection-104",
+   "brand names count": 4
+ },
+ {
+   "dosage form id": 175,
+   "dosage form name": "Flash Tablet",
+   "slug": "flash-tablet-175",
+   "brand names count": 11
+ },
+ {
+   "dosage form id": 159,
+   "dosage form name": "Eye Capsule",
+   "slug": "eye-capsule-159",
+   "brand names count": 23
+ },
+ {
+   "dosage form id": 178,
+   "dosage form name": "Emulsion for infusion",
+   "slug": "emulsion-for-infusion-178",
+   "brand names count": 7
+ },
+ {
+   "dosage form id": 31,
+   "dosage form name": "Effervescent Tablet",
+   "slug": "effervescent-tablet-31",
+   "brand names count": 37
+ },
+ {
+   "dosage form id": 164,
+   "dosage form name": "Effervescent Powder",
+   "slug": "effervescent-powder-164",
+   "brand names count": 24
+ },
+ {
+   "dosage form id": 27,
+   "dosage form name": "Effervescent Granules",
+   "slug": "effervescent-granules-27",
+   "brand names count": 8
+ },
+ {
+   "dosage form id": 72,
+   "dosage form name": "Ear Drop",
+   "slug": "ear-drop-72",
+   "brand names count": 21
+ },
+ {
+   "dosage form id": 28,
+   "dosage form name": "Dispersible Tablet",
+   "slug": "dispersible-tablet-28",
+   "brand names count": 80
+ },
+ {
+   "dosage form id": 110,
+   "dosage form name": "Dialysis Solution",
+   "slug": "dialysis-solution-110",
+   "brand names count": 9
+ },
+ {
+   "dosage form id": 122,
+   "dosage form name": "Dental Gel",
+   "slug": "dental-gel-122",
+   "brand names count": 2
+ },
+ {
+   "dosage form id": 8,
+   "dosage form name": "Cream",
+   "slug": "cream-8",
+   "brand names count": 496
+ },
+ {
+   "dosage form id": 149,
+   "dosage form name": "Chewing Gum Tablet",
+   "slug": "chewing-gum-tablet-149",
+   "brand names count": 1
+ },
+ {
+   "dosage form id": 24,
+   "dosage form name": "Chewable Tablet",
+   "slug": "chewable-tablet-24",
+   "brand names count": 284
+ },
+ {
+   "dosage form id": 81,
+   "dosage form name": "Capsule (Timed Release)",
+   "slug": "capsule-timed-release-81",
+   "brand names count": 144
+ }
+]

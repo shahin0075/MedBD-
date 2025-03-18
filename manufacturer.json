@@ -1,0 +1,1682 @@
+[
+ {
+   "manufacturer id": 2,
+   "manufacturer name": "ACI Limited",
+   "slug": "aci-limited-2",
+   "generics count": 352,
+   "brand names count": 687
+ },
+ {
+   "manufacturer id": 3,
+   "manufacturer name": "ACME Laboratories Ltd.",
+   "slug": "acme-laboratories-ltd-3",
+   "generics count": 410,
+   "brand names count": 696
+ },
+ {
+   "manufacturer id": 103,
+   "manufacturer name": "Ad-din Pharmaceuticals Ltd.",
+   "slug": "ad-din-pharmaceuticals-ltd-103",
+   "generics count": 70,
+   "brand names count": 104
+ },
+ {
+   "manufacturer id": 114,
+   "manufacturer name": "Aexim Pharmaceuticals Ltd.",
+   "slug": "aexim-pharmaceuticals-ltd-114",
+   "generics count": 34,
+   "brand names count": 43
+ },
+ {
+   "manufacturer id": 292,
+   "manufacturer name": "Al-Madina Pharmaceuticals Ltd.",
+   "slug": "al-madina-pharmaceuticals-ltd-292",
+   "generics count": 49,
+   "brand names count": 76
+ },
+ {
+   "manufacturer id": 4,
+   "manufacturer name": "Alco Pharma Ltd.",
+   "slug": "alco-pharma-ltd-4",
+   "generics count": 106,
+   "brand names count": 179
+ },
+ {
+   "manufacturer id": 304,
+   "manufacturer name": "Alien Pharma",
+   "slug": "alien-pharma-304",
+   "generics count": 3,
+   "brand names count": 3
+ },
+ {
+   "manufacturer id": 245,
+   "manufacturer name": "Alkad Laboratories",
+   "slug": "alkad-laboratories-245",
+   "generics count": 13,
+   "brand names count": 14
+ },
+ {
+   "manufacturer id": 115,
+   "manufacturer name": "Allied Pharmaceuticals Ltd.",
+   "slug": "allied-pharmaceuticals-ltd-115",
+   "generics count": 7,
+   "brand names count": 10
+ },
+ {
+   "manufacturer id": 5,
+   "manufacturer name": "Ambee Pharmaceuticals Ltd.",
+   "slug": "ambee-pharmaceuticals-ltd-5",
+   "generics count": 68,
+   "brand names count": 113
+ },
+ {
+   "manufacturer id": 6,
+   "manufacturer name": "Amico Laboratories Ltd.",
+   "slug": "amico-laboratories-ltd-6",
+   "generics count": 87,
+   "brand names count": 123
+ },
+ {
+   "manufacturer id": 7,
+   "manufacturer name": "Amulet Pharmaceuticals Ltd.",
+   "slug": "amulet-pharmaceuticals-ltd-7",
+   "generics count": 35,
+   "brand names count": 51
+ },
+ {
+   "manufacturer id": 128,
+   "manufacturer name": "APC Pharma Ltd.",
+   "slug": "apc-pharma-ltd-128",
+   "generics count": 27,
+   "brand names count": 41
+ },
+ {
+   "manufacturer id": 8,
+   "manufacturer name": "Apex Pharmaceuticals Ltd.",
+   "slug": "apex-pharmaceuticals-ltd-8",
+   "generics count": 77,
+   "brand names count": 115
+ },
+ {
+   "manufacturer id": 9,
+   "manufacturer name": "Apollo Pharmaceutical Ltd.",
+   "slug": "apollo-pharmaceutical-ltd-9",
+   "generics count": 37,
+   "brand names count": 48
+ },
+ {
+   "manufacturer id": 258,
+   "manufacturer name": "AqVida bangladesh",
+   "slug": "aqvida-bangladesh-258",
+   "generics count": 5,
+   "brand names count": 7
+ },
+ {
+   "manufacturer id": 289,
+   "manufacturer name": "Arges Life Science Limited",
+   "slug": "arges-life-science-limited-289",
+   "generics count": 18,
+   "brand names count": 24
+ },
+ {
+   "manufacturer id": 10,
+   "manufacturer name": "Aristopharma Ltd.",
+   "slug": "aristopharma-ltd-10",
+   "generics count": 312,
+   "brand names count": 516
+ },
+ {
+   "manufacturer id": 81,
+   "manufacturer name": "Asiatic Laboratories Ltd.",
+   "slug": "asiatic-laboratories-ltd-81",
+   "generics count": 93,
+   "brand names count": 149
+ },
+ {
+   "manufacturer id": 11,
+   "manufacturer name": "Astra Biopharmaceuticals Ltd.",
+   "slug": "astra-biopharmaceuticals-ltd-11",
+   "generics count": 54,
+   "brand names count": 87
+ },
+ {
+   "manufacturer id": 246,
+   "manufacturer name": "Aztec Pharmaceuticals Ltd.",
+   "slug": "aztec-pharmaceuticals-ltd-246",
+   "generics count": 14,
+   "brand names count": 16
+ },
+ {
+   "manufacturer id": 13,
+   "manufacturer name": "Beacon Pharmaceuticals Ltd.",
+   "slug": "beacon-pharmaceuticals-ltd-13",
+   "generics count": 237,
+   "brand names count": 384
+ },
+ {
+   "manufacturer id": 110,
+   "manufacturer name": "Belsen Pharmaceuticals Ltd.",
+   "slug": "belsen-pharmaceuticals-ltd-110",
+   "generics count": 17,
+   "brand names count": 21
+ },
+ {
+   "manufacturer id": 169,
+   "manufacturer name": "Bengal drugs Ltd.",
+   "slug": "bengal-drugs-ltd-169",
+   "generics count": 16,
+   "brand names count": 22
+ },
+ {
+   "manufacturer id": 107,
+   "manufacturer name": "Benham Pharmaceuticals Ltd.",
+   "slug": "benham-pharmaceuticals-ltd-107",
+   "generics count": 84,
+   "brand names count": 130
+ },
+ {
+   "manufacturer id": 14,
+   "manufacturer name": "Beximco Pharmaceuticals Ltd.",
+   "slug": "beximco-pharmaceuticals-ltd-14",
+   "generics count": 386,
+   "brand names count": 703
+ },
+ {
+   "manufacturer id": 102,
+   "manufacturer name": "Biogen Pharmaceuticals Ltd.",
+   "slug": "biogen-pharmaceuticals-ltd-102",
+   "generics count": 29,
+   "brand names count": 32
+ },
+ {
+   "manufacturer id": 15,
+   "manufacturer name": "Biopharma Laboratories Ltd.",
+   "slug": "biopharma-laboratories-ltd-15",
+   "generics count": 178,
+   "brand names count": 311
+ },
+ {
+   "manufacturer id": 191,
+   "manufacturer name": "BOTS Pvt. Limited",
+   "slug": "bots-pvt-limited-191",
+   "generics count": 12,
+   "brand names count": 14
+ },
+ {
+   "manufacturer id": 16,
+   "manufacturer name": "Bristol Pharmaceuticals Ltd.",
+   "slug": "bristol-pharmaceuticals-ltd-16",
+   "generics count": 61,
+   "brand names count": 87
+ },
+ {
+   "manufacturer id": 336,
+   "manufacturer name": "Bronson  Laboratories (BD) Ltd.",
+   "slug": "bronson-laboratories-bd-ltd-336",
+   "generics count": 5,
+   "brand names count": 5
+ },
+ {
+   "manufacturer id": 273,
+   "manufacturer name": "Centeon Pharma Ltd.",
+   "slug": "centeon-pharma-ltd-273",
+   "generics count": 16,
+   "brand names count": 22
+ },
+ {
+   "manufacturer id": 171,
+   "manufacturer name": "Central Pharmaceuticals Ltd.",
+   "slug": "central-pharmaceuticals-ltd-171",
+   "generics count": 45,
+   "brand names count": 55
+ },
+ {
+   "manufacturer id": 18,
+   "manufacturer name": "Chemist Laboratories  Ltd.",
+   "slug": "chemist-laboratories-ltd-18",
+   "generics count": 83,
+   "brand names count": 109
+ },
+ {
+   "manufacturer id": 174,
+   "manufacturer name": "City Overseas Ltd.",
+   "slug": "city-overseas-ltd-174",
+   "generics count": 20,
+   "brand names count": 22
+ },
+ {
+   "manufacturer id": 19,
+   "manufacturer name": "Concord Pharmaceuticals Ltd.",
+   "slug": "concord-pharmaceuticals-ltd-19",
+   "generics count": 74,
+   "brand names count": 125
+ },
+ {
+   "manufacturer id": 153,
+   "manufacturer name": "Cosmic Pharma Ltd.",
+   "slug": "cosmic-pharma-ltd-153",
+   "generics count": 57,
+   "brand names count": 76
+ },
+ {
+   "manufacturer id": 117,
+   "manufacturer name": "Cosmo Pharma Ltd.",
+   "slug": "cosmo-pharma-ltd-117",
+   "generics count": 32,
+   "brand names count": 41
+ },
+ {
+   "manufacturer id": 276,
+   "manufacturer name": "Credence Pharmaceuticals Ltd.",
+   "slug": "credence-pharmaceuticals-ltd-276",
+   "generics count": 15,
+   "brand names count": 20
+ },
+ {
+   "manufacturer id": 278,
+   "manufacturer name": "D16 Pharma & Biotec",
+   "slug": "d16-pharma-biotec-278",
+   "generics count": 25,
+   "brand names count": 41
+ },
+ {
+   "manufacturer id": 330,
+   "manufacturer name": "DBL Pharmaceuticals Ltd.",
+   "slug": "dbl-pharmaceuticals-ltd-330",
+   "generics count": 17,
+   "brand names count": 22
+ },
+ {
+   "manufacturer id": 101,
+   "manufacturer name": "Decent Pharma Laboratories Ltd.",
+   "slug": "decent-pharma-laboratories-ltd-101",
+   "generics count": 25,
+   "brand names count": 32
+ },
+ {
+   "manufacturer id": 83,
+   "manufacturer name": "Delta Pharma Ltd.",
+   "slug": "delta-pharma-ltd-83",
+   "generics count": 97,
+   "brand names count": 154
+ },
+ {
+   "manufacturer id": 22,
+   "manufacturer name": "Desh Pharmaceuticals Ltd.",
+   "slug": "desh-pharmaceuticals-ltd-22",
+   "generics count": 61,
+   "brand names count": 94
+ },
+ {
+   "manufacturer id": 24,
+   "manufacturer name": "Doctor TIMS Pharmaceuticals Ltd.",
+   "slug": "doctor-tims-pharmaceuticals-ltd-24",
+   "generics count": 54,
+   "brand names count": 66
+ },
+ {
+   "manufacturer id": 23,
+   "manufacturer name": "Doctor’s Chemical Works Ltd.",
+   "slug": "doctors-chemical-works-ltd-23",
+   "generics count": 69,
+   "brand names count": 105
+ },
+ {
+   "manufacturer id": 25,
+   "manufacturer name": "Drug International Ltd.",
+   "slug": "drug-international-ltd-25",
+   "generics count": 418,
+   "brand names count": 681
+ },
+ {
+   "manufacturer id": 119,
+   "manufacturer name": "Edruc Limited",
+   "slug": "edruc-limited-119",
+   "generics count": 109,
+   "brand names count": 156
+ },
+ {
+   "manufacturer id": 305,
+   "manufacturer name": "Empiric Laboratories Ltd.",
+   "slug": "empiric-laboratories-ltd-305",
+   "generics count": 1,
+   "brand names count": 1
+ },
+ {
+   "manufacturer id": 27,
+   "manufacturer name": "Eskayef Pharmaceuticals Ltd.",
+   "slug": "eskayef-pharmaceuticals-ltd-27",
+   "generics count": 364,
+   "brand names count": 664
+ },
+ {
+   "manufacturer id": 157,
+   "manufacturer name": "Ethical Drug Ltd.",
+   "slug": "ethical-drug-ltd-157",
+   "generics count": 60,
+   "brand names count": 104
+ },
+ {
+   "manufacturer id": 121,
+   "manufacturer name": "Euro Pharma Ltd.",
+   "slug": "euro-pharma-ltd-121",
+   "generics count": 96,
+   "brand names count": 159
+ },
+ {
+   "manufacturer id": 127,
+   "manufacturer name": "Everest Pharmaceuticals Ltd.",
+   "slug": "everest-pharmaceuticals-ltd-127",
+   "generics count": 64,
+   "brand names count": 89
+ },
+ {
+   "manufacturer id": 266,
+   "manufacturer name": "FnF Pharmaceuticals Ltd.",
+   "slug": "fnf-pharmaceuticals-ltd-266",
+   "generics count": 7,
+   "brand names count": 7
+ },
+ {
+   "manufacturer id": 137,
+   "manufacturer name": "Gaco Pharmaceuticals Ltd.",
+   "slug": "gaco-pharmaceuticals-ltd-137",
+   "generics count": 103,
+   "brand names count": 149
+ },
+ {
+   "manufacturer id": 29,
+   "manufacturer name": "General Pharmaceuticals Ltd.",
+   "slug": "general-pharmaceuticals-ltd-29",
+   "generics count": 271,
+   "brand names count": 442
+ },
+ {
+   "manufacturer id": 30,
+   "manufacturer name": "Genvio Pharma Ltd.",
+   "slug": "genvio-pharma-ltd-30",
+   "generics count": 25,
+   "brand names count": 41
+ },
+ {
+   "manufacturer id": 267,
+   "manufacturer name": "Get Well Limited",
+   "slug": "get-well-limited-267",
+   "generics count": 5,
+   "brand names count": 13
+ },
+ {
+   "manufacturer id": 52,
+   "manufacturer name": "GlaxoSmithKline",
+   "slug": "glaxosmithkline-52",
+   "generics count": 68,
+   "brand names count": 98
+ },
+ {
+   "manufacturer id": 31,
+   "manufacturer name": "Globe Pharmaceuticals Ltd.",
+   "slug": "globe-pharmaceuticals-ltd-31",
+   "generics count": 167,
+   "brand names count": 281
+ },
+ {
+   "manufacturer id": 120,
+   "manufacturer name": "Globex Pharmaceuticals Ltd.",
+   "slug": "globex-pharmaceuticals-ltd-120",
+   "generics count": 31,
+   "brand names count": 46
+ },
+ {
+   "manufacturer id": 32,
+   "manufacturer name": "Gonoshasthaya Pharma Ltd.",
+   "slug": "gonoshasthaya-pharma-ltd-32",
+   "generics count": 89,
+   "brand names count": 148
+ },
+ {
+   "manufacturer id": 268,
+   "manufacturer name": "Goodman Pharmaceuticals Ltd.",
+   "slug": "goodman-pharmaceuticals-ltd-268",
+   "generics count": 16,
+   "brand names count": 25
+ },
+ {
+   "manufacturer id": 212,
+   "manufacturer name": "Greenland Pharmaceuticals Ltd.",
+   "slug": "greenland-pharmaceuticals-ltd-212",
+   "generics count": 2,
+   "brand names count": 2
+ },
+ {
+   "manufacturer id": 261,
+   "manufacturer name": "Guardian Healthcare Ltd.",
+   "slug": "guardian-healthcare-ltd-261",
+   "generics count": 23,
+   "brand names count": 29
+ },
+ {
+   "manufacturer id": 100,
+   "manufacturer name": "Hallmark Pharmaceuticals Ltd.",
+   "slug": "hallmark-pharmaceuticals-ltd-100",
+   "generics count": 43,
+   "brand names count": 63
+ },
+ {
+   "manufacturer id": 85,
+   "manufacturer name": "Healthcare Pharmaceuticals Ltd.",
+   "slug": "healthcare-pharmaceuticals-ltd-85",
+   "generics count": 272,
+   "brand names count": 506
+ },
+ {
+   "manufacturer id": 33,
+   "manufacturer name": "Hudson Pharmaceuticals Ltd.",
+   "slug": "hudson-pharmaceuticals-ltd-33",
+   "generics count": 67,
+   "brand names count": 97
+ },
+ {
+   "manufacturer id": 35,
+   "manufacturer name": "Ibn Sina Pharmaceuticals Ltd.",
+   "slug": "ibn-sina-pharmaceuticals-ltd-35",
+   "generics count": 283,
+   "brand names count": 467
+ },
+ {
+   "manufacturer id": 106,
+   "manufacturer name": "Incepta Pharmaceuticals Ltd.",
+   "slug": "incepta-pharmaceuticals-ltd-106",
+   "generics count": 689,
+   "brand names count": 1188
+ },
+ {
+   "manufacturer id": 99,
+   "manufacturer name": "Indo Bangla Pharmaceutical",
+   "slug": "indo-bangla-pharmaceutical-99",
+   "generics count": 28,
+   "brand names count": 38
+ },
+ {
+   "manufacturer id": 108,
+   "manufacturer name": "Innovative Pharma (Albion)",
+   "slug": "innovative-pharma-albion-108",
+   "generics count": 50,
+   "brand names count": 85
+ },
+ {
+   "manufacturer id": 217,
+   "manufacturer name": "Institute of Public Health (IPH)",
+   "slug": "institute-of-public-health-iph-217",
+   "generics count": 6,
+   "brand names count": 8
+ },
+ {
+   "manufacturer id": 290,
+   "manufacturer name": "International Agencies (Bd.) Limited",
+   "slug": "international-agencies-bd-limited-290",
+   "generics count": 6,
+   "brand names count": 9
+ },
+ {
+   "manufacturer id": 176,
+   "manufacturer name": "Janata Traders",
+   "slug": "janata-traders-176",
+   "generics count": 23,
+   "brand names count": 33
+ },
+ {
+   "manufacturer id": 37,
+   "manufacturer name": "Jayson Pharmaceuticals Ltd.",
+   "slug": "jayson-pharmaceuticals-ltd-37",
+   "generics count": 123,
+   "brand names count": 202
+ },
+ {
+   "manufacturer id": 39,
+   "manufacturer name": "Jenphar Bangladesh Ltd.",
+   "slug": "jenphar-bangladesh-ltd-39",
+   "generics count": 84,
+   "brand names count": 139
+ },
+ {
+   "manufacturer id": 205,
+   "manufacturer name": "Kawsar Chemicals",
+   "slug": "kawsar-chemicals-205",
+   "generics count": 1,
+   "brand names count": 2
+ },
+ {
+   "manufacturer id": 116,
+   "manufacturer name": "Kemiko Pharmaceuticals Ltd.",
+   "slug": "kemiko-pharmaceuticals-ltd-116",
+   "generics count": 134,
+   "brand names count": 208
+ },
+ {
+   "manufacturer id": 136,
+   "manufacturer name": "Kumudini Pharma Ltd.",
+   "slug": "kumudini-pharma-ltd-136",
+   "generics count": 84,
+   "brand names count": 126
+ },
+ {
+   "manufacturer id": 40,
+   "manufacturer name": "Labaid Pharma Ltd.",
+   "slug": "labaid-pharma-ltd-40",
+   "generics count": 52,
+   "brand names count": 104
+ },
+ {
+   "manufacturer id": 275,
+   "manufacturer name": "Legends Pharma",
+   "slug": "legends-pharma-275",
+   "generics count": 12,
+   "brand names count": 13
+ },
+ {
+   "manufacturer id": 129,
+   "manufacturer name": "Leon Pharmaceuticals Ltd.",
+   "slug": "leon-pharmaceuticals-ltd-129",
+   "generics count": 62,
+   "brand names count": 98
+ },
+ {
+   "manufacturer id": 41,
+   "manufacturer name": "Libra Infusions Ltd.",
+   "slug": "libra-infusions-ltd-41",
+   "generics count": 9,
+   "brand names count": 16
+ },
+ {
+   "manufacturer id": 269,
+   "manufacturer name": "Libra Pharmaceuticls Ltd.",
+   "slug": "libra-pharmaceuticls-ltd-269",
+   "generics count": 3,
+   "brand names count": 5
+ },
+ {
+   "manufacturer id": 279,
+   "manufacturer name": "Marie Stopes Bangladesh",
+   "slug": "marie-stopes-bangladesh-279",
+   "generics count": 1,
+   "brand names count": 1
+ },
+ {
+   "manufacturer id": 131,
+   "manufacturer name": "Marker Pharma Ltd.",
+   "slug": "marker-pharma-ltd-131",
+   "generics count": 29,
+   "brand names count": 37
+ },
+ {
+   "manufacturer id": 109,
+   "manufacturer name": "Marksman Pharmaceuticals Ltd.",
+   "slug": "marksman-pharmaceuticals-ltd-109",
+   "generics count": 19,
+   "brand names count": 25
+ },
+ {
+   "manufacturer id": 42,
+   "manufacturer name": "Medicon Pharmaceuticals Ltd.",
+   "slug": "medicon-pharmaceuticals-ltd-42",
+   "generics count": 89,
+   "brand names count": 116
+ },
+ {
+   "manufacturer id": 43,
+   "manufacturer name": "Medimet Pharmaceuticals Ltd.",
+   "slug": "medimet-pharmaceuticals-ltd-43",
+   "generics count": 76,
+   "brand names count": 135
+ },
+ {
+   "manufacturer id": 263,
+   "manufacturer name": "MedRx Life Science Ltd.",
+   "slug": "medrx-life-science-ltd-263",
+   "generics count": 14,
+   "brand names count": 20
+ },
+ {
+   "manufacturer id": 44,
+   "manufacturer name": "Millat Pharmaceuticals Ltd.",
+   "slug": "millat-pharmaceuticals-ltd-44",
+   "generics count": 46,
+   "brand names count": 72
+ },
+ {
+   "manufacturer id": 45,
+   "manufacturer name": "Modern Pharmaceuticals Ltd.",
+   "slug": "modern-pharmaceuticals-ltd-45",
+   "generics count": 44,
+   "brand names count": 65
+ },
+ {
+   "manufacturer id": 206,
+   "manufacturer name": "Momotaz Pharmaceuticals Ltd.",
+   "slug": "momotaz-pharmaceuticals-ltd-206",
+   "generics count": 4,
+   "brand names count": 4
+ },
+ {
+   "manufacturer id": 123,
+   "manufacturer name": "Monicopharma Ltd.",
+   "slug": "monicopharma-ltd-123",
+   "generics count": 71,
+   "brand names count": 101
+ },
+ {
+   "manufacturer id": 170,
+   "manufacturer name": "MST Pharma",
+   "slug": "mst-pharma-170",
+   "generics count": 29,
+   "brand names count": 35
+ },
+ {
+   "manufacturer id": 143,
+   "manufacturer name": "Mundipharma (BD) Pvt. Ltd.",
+   "slug": "mundipharma-bd-pvt-ltd-143",
+   "generics count": 14,
+   "brand names count": 25
+ },
+ {
+   "manufacturer id": 46,
+   "manufacturer name": "Mystic Pharmaceuticals Ltd.",
+   "slug": "mystic-pharmaceuticals-ltd-46",
+   "generics count": 27,
+   "brand names count": 37
+ },
+ {
+   "manufacturer id": 251,
+   "manufacturer name": "Naafco Pharma Ltd.",
+   "slug": "naafco-pharma-ltd-251",
+   "generics count": 24,
+   "brand names count": 34
+ },
+ {
+   "manufacturer id": 47,
+   "manufacturer name": "Navana Pharmaceuticals Ltd.",
+   "slug": "navana-pharmaceuticals-ltd-47",
+   "generics count": 188,
+   "brand names count": 322
+ },
+ {
+   "manufacturer id": 327,
+   "manufacturer name": "NEMUS Pharmaceutical Pvt. Ltd.",
+   "slug": "nemus-pharmaceutical-pvt-ltd-327",
+   "generics count": 1,
+   "brand names count": 1
+ },
+ {
+   "manufacturer id": 53,
+   "manufacturer name": "Nipa Pharmaceuticals Ltd.",
+   "slug": "nipa-pharmaceuticals-ltd-53",
+   "generics count": 74,
+   "brand names count": 94
+ },
+ {
+   "manufacturer id": 48,
+   "manufacturer name": "NIPRO JMI Pharma Ltd.",
+   "slug": "nipro-jmi-pharma-ltd-48",
+   "generics count": 108,
+   "brand names count": 196
+ },
+ {
+   "manufacturer id": 51,
+   "manufacturer name": "Novartis (Bangladesh) Ltd.",
+   "slug": "novartis-bangladesh-ltd-51",
+   "generics count": 44,
+   "brand names count": 81
+ },
+ {
+   "manufacturer id": 49,
+   "manufacturer name": "Novelta Bestway Pharma Ltd.",
+   "slug": "novelta-bestway-pharma-ltd-49",
+   "generics count": 30,
+   "brand names count": 44
+ },
+ {
+   "manufacturer id": 133,
+   "manufacturer name": "Novo Healthcare and Pharma Ltd.",
+   "slug": "novo-healthcare-and-pharma-ltd-133",
+   "generics count": 65,
+   "brand names count": 101
+ },
+ {
+   "manufacturer id": 186,
+   "manufacturer name": "Novo Nordisk Pharma (Pvt.) Ltd",
+   "slug": "novo-nordisk-pharma-pvt-ltd-186",
+   "generics count": 11,
+   "brand names count": 24
+ },
+ {
+   "manufacturer id": 50,
+   "manufacturer name": "Novus Pharmaceuticals Ltd.",
+   "slug": "novus-pharmaceuticals-ltd-50",
+   "generics count": 21,
+   "brand names count": 26
+ },
+ {
+   "manufacturer id": 122,
+   "manufacturer name": "Nuvista Pharma Ltd.",
+   "slug": "nuvista-pharma-ltd-122",
+   "generics count": 72,
+   "brand names count": 108
+ },
+ {
+   "manufacturer id": 207,
+   "manufacturer name": "One Pharma Ltd.",
+   "slug": "one-pharma-ltd-207",
+   "generics count": 51,
+   "brand names count": 86
+ },
+ {
+   "manufacturer id": 55,
+   "manufacturer name": "Opso Saline Ltd.",
+   "slug": "opso-saline-ltd-55",
+   "generics count": 106,
+   "brand names count": 153
+ },
+ {
+   "manufacturer id": 56,
+   "manufacturer name": "Opsonin Pharma Ltd.",
+   "slug": "opsonin-pharma-ltd-56",
+   "generics count": 467,
+   "brand names count": 910
+ },
+ {
+   "manufacturer id": 260,
+   "manufacturer name": "Orbit Pharmaceuticals Ltd.",
+   "slug": "orbit-pharmaceuticals-ltd-260",
+   "generics count": 30,
+   "brand names count": 39
+ },
+ {
+   "manufacturer id": 124,
+   "manufacturer name": "Organic Health Care Ltd.",
+   "slug": "organic-health-care-ltd-124",
+   "generics count": 53,
+   "brand names count": 81
+ },
+ {
+   "manufacturer id": 173,
+   "manufacturer name": "Orion Infusion Ltd.",
+   "slug": "orion-infusion-ltd-173",
+   "generics count": 16,
+   "brand names count": 25
+ },
+ {
+   "manufacturer id": 58,
+   "manufacturer name": "Orion Pharma Ltd.",
+   "slug": "orion-pharma-ltd-58",
+   "generics count": 135,
+   "brand names count": 236
+ },
+ {
+   "manufacturer id": 118,
+   "manufacturer name": "Oyster Pharmaceuticals Ltd.",
+   "slug": "oyster-pharmaceuticals-ltd-118",
+   "generics count": 9,
+   "brand names count": 10
+ },
+ {
+   "manufacturer id": 145,
+   "manufacturer name": "Pacific Pharmaceuticals Ltd.",
+   "slug": "pacific-pharmaceuticals-ltd-145",
+   "generics count": 170,
+   "brand names count": 280
+ },
+ {
+   "manufacturer id": 59,
+   "manufacturer name": "Peoples Pharma Ltd.",
+   "slug": "peoples-pharma-ltd-59",
+   "generics count": 24,
+   "brand names count": 31
+ },
+ {
+   "manufacturer id": 175,
+   "manufacturer name": "Pfizer",
+   "slug": "pfizer-175",
+   "generics count": 1,
+   "brand names count": 1
+ },
+ {
+   "manufacturer id": 195,
+   "manufacturer name": "Pharmacil Limited",
+   "slug": "pharmacil-limited-195",
+   "generics count": 4,
+   "brand names count": 8
+ },
+ {
+   "manufacturer id": 60,
+   "manufacturer name": "Pharmadesh Laboratories Ltd.",
+   "slug": "pharmadesh-laboratories-ltd-60",
+   "generics count": 93,
+   "brand names count": 140
+ },
+ {
+   "manufacturer id": 112,
+   "manufacturer name": "Pharmasia Limited",
+   "slug": "pharmasia-limited-112",
+   "generics count": 103,
+   "brand names count": 179
+ },
+ {
+   "manufacturer id": 202,
+   "manufacturer name": "Pharmik Laboratories Ltd.",
+   "slug": "pharmik-laboratories-ltd-202",
+   "generics count": 14,
+   "brand names count": 16
+ },
+ {
+   "manufacturer id": 262,
+   "manufacturer name": "Phoenix Chemical Laboratory",
+   "slug": "phoenix-chemical-laboratory-262",
+   "generics count": 8,
+   "brand names count": 8
+ },
+ {
+   "manufacturer id": 87,
+   "manufacturer name": "Popular Pharmaceuticals Ltd.",
+   "slug": "popular-pharmaceuticals-ltd-87",
+   "generics count": 287,
+   "brand names count": 445
+ },
+ {
+   "manufacturer id": 201,
+   "manufacturer name": "Premier Pharmaceuticals Ltd.",
+   "slug": "premier-pharmaceuticals-ltd-201",
+   "generics count": 33,
+   "brand names count": 42
+ },
+ {
+   "manufacturer id": 88,
+   "manufacturer name": "Prime Pharmaceuticals Ltd.",
+   "slug": "prime-pharmaceuticals-ltd-88",
+   "generics count": 14,
+   "brand names count": 15
+ },
+ {
+   "manufacturer id": 280,
+   "manufacturer name": "Purnava Limited",
+   "slug": "purnava-limited-280",
+   "generics count": 6,
+   "brand names count": 6
+ },
+ {
+   "manufacturer id": 253,
+   "manufacturer name": "Quality Pharmaceuticals Ltd.",
+   "slug": "quality-pharmaceuticals-ltd-253",
+   "generics count": 6,
+   "brand names count": 6
+ },
+ {
+   "manufacturer id": 331,
+   "manufacturer name": "Radiant Nutraceuticals Ltd.",
+   "slug": "radiant-nutraceuticals-ltd-331",
+   "generics count": 20,
+   "brand names count": 26
+ },
+ {
+   "manufacturer id": 62,
+   "manufacturer name": "Radiant Pharmaceuticals Ltd.",
+   "slug": "radiant-pharmaceuticals-ltd-62",
+   "generics count": 106,
+   "brand names count": 177
+ },
+ {
+   "manufacturer id": 147,
+   "manufacturer name": "Rangs Pharmaceuticals Ltd.",
+   "slug": "rangs-pharmaceuticals-ltd-147",
+   "generics count": 75,
+   "brand names count": 138
+ },
+ {
+   "manufacturer id": 161,
+   "manufacturer name": "Reckitt & Benckiser Ltd.",
+   "slug": "reckitt-benckiser-ltd-161",
+   "generics count": 4,
+   "brand names count": 6
+ },
+ {
+   "manufacturer id": 130,
+   "manufacturer name": "Reliance Pharmaceuticals Ltd.",
+   "slug": "reliance-pharmaceuticals-ltd-130",
+   "generics count": 33,
+   "brand names count": 43
+ },
+ {
+   "manufacturer id": 63,
+   "manufacturer name": "Reman Drug Laboratories Ltd.",
+   "slug": "reman-drug-laboratories-ltd-63",
+   "generics count": 68,
+   "brand names count": 88
+ },
+ {
+   "manufacturer id": 64,
+   "manufacturer name": "Renata Limited",
+   "slug": "renata-limited-64",
+   "generics count": 273,
+   "brand names count": 501
+ },
+ {
+   "manufacturer id": 66,
+   "manufacturer name": "Rephco Pharmaceuticals Ltd.",
+   "slug": "rephco-pharmaceuticals-ltd-66",
+   "generics count": 96,
+   "brand names count": 146
+ },
+ {
+   "manufacturer id": 338,
+   "manufacturer name": "River Pharma",
+   "slug": "river-pharma-338",
+   "generics count": 2,
+   "brand names count": 2
+ },
+ {
+   "manufacturer id": 259,
+   "manufacturer name": "RN Pharmaceuticals",
+   "slug": "rn-pharmaceuticals-259",
+   "generics count": 8,
+   "brand names count": 8
+ },
+ {
+   "manufacturer id": 67,
+   "manufacturer name": "Roche Bangladesh Ltd.",
+   "slug": "roche-bangladesh-ltd-67",
+   "generics count": 17,
+   "brand names count": 26
+ },
+ {
+   "manufacturer id": 335,
+   "manufacturer name": "Royal Pharmaceutical Ltd.",
+   "slug": "royal-pharmaceutical-ltd-335",
+   "generics count": 8,
+   "brand names count": 8
+ },
+ {
+   "manufacturer id": 135,
+   "manufacturer name": "S.N. Pharmaceutical Ltd.",
+   "slug": "sn-pharmaceutical-ltd-135",
+   "generics count": 17,
+   "brand names count": 19
+ },
+ {
+   "manufacturer id": 68,
+   "manufacturer name": "Salton Pharmaceuticals Ltd.",
+   "slug": "salton-pharmaceuticals-ltd-68",
+   "generics count": 23,
+   "brand names count": 30
+ },
+ {
+   "manufacturer id": 168,
+   "manufacturer name": "SANDOZ (A Novartis Division)",
+   "slug": "sandoz-a-novartis-division-168",
+   "generics count": 64,
+   "brand names count": 106
+ },
+ {
+   "manufacturer id": 69,
+   "manufacturer name": "Seema Pharmaceuticals Ltd.",
+   "slug": "seema-pharmaceuticals-ltd-69",
+   "generics count": 52,
+   "brand names count": 75
+ },
+ {
+   "manufacturer id": 172,
+   "manufacturer name": "Servier Bangladesh Operation",
+   "slug": "servier-bangladesh-operation-172",
+   "generics count": 8,
+   "brand names count": 12
+ },
+ {
+   "manufacturer id": 90,
+   "manufacturer name": "Sharif Pharmaceuticals Ltd.",
+   "slug": "sharif-pharmaceuticals-ltd-90",
+   "generics count": 91,
+   "brand names count": 138
+ },
+ {
+   "manufacturer id": 159,
+   "manufacturer name": "Silco Pharmaceutical Ltd.",
+   "slug": "silco-pharmaceutical-ltd-159",
+   "generics count": 62,
+   "brand names count": 92
+ },
+ {
+   "manufacturer id": 94,
+   "manufacturer name": "Silva Pharmaceuticals Ltd.",
+   "slug": "silva-pharmaceuticals-ltd-94",
+   "generics count": 79,
+   "brand names count": 129
+ },
+ {
+   "manufacturer id": 70,
+   "manufacturer name": "Skylab Pharmaceuticals Ltd.",
+   "slug": "skylab-pharmaceuticals-ltd-70",
+   "generics count": 13,
+   "brand names count": 19
+ },
+ {
+   "manufacturer id": 216,
+   "manufacturer name": "Social Marketing Company",
+   "slug": "social-marketing-company-216",
+   "generics count": 27,
+   "brand names count": 34
+ },
+ {
+   "manufacturer id": 125,
+   "manufacturer name": "Somatec Pharmaceuticals Ltd.",
+   "slug": "somatec-pharmaceuticals-ltd-125",
+   "generics count": 75,
+   "brand names count": 125
+ },
+ {
+   "manufacturer id": 72,
+   "manufacturer name": "Sonear Laboratories Ltd.",
+   "slug": "sonear-laboratories-ltd-72",
+   "generics count": 21,
+   "brand names count": 29
+ },
+ {
+   "manufacturer id": 73,
+   "manufacturer name": "Square Pharmaceuticals Ltd.",
+   "slug": "square-pharmaceuticals-ltd-73",
+   "generics count": 546,
+   "brand names count": 905
+ },
+ {
+   "manufacturer id": 139,
+   "manufacturer name": "Sun Pharmaceutical Ltd.",
+   "slug": "sun-pharmaceutical-ltd-139",
+   "generics count": 63,
+   "brand names count": 132
+ },
+ {
+   "manufacturer id": 256,
+   "manufacturer name": "Sunman-Birdem Pharma Ltd.",
+   "slug": "sunman-birdem-pharma-ltd-256",
+   "generics count": 41,
+   "brand names count": 65
+ },
+ {
+   "manufacturer id": 138,
+   "manufacturer name": "Supreme Pharmaceutical Ltd.",
+   "slug": "supreme-pharmaceutical-ltd-138",
+   "generics count": 55,
+   "brand names count": 77
+ },
+ {
+   "manufacturer id": 89,
+   "manufacturer name": "Synovia pharma plc",
+   "slug": "synovia-pharma-plc-89",
+   "generics count": 94,
+   "brand names count": 204
+ },
+ {
+   "manufacturer id": 134,
+   "manufacturer name": "Syntho Laboratories Ltd.",
+   "slug": "syntho-laboratories-ltd-134",
+   "generics count": 14,
+   "brand names count": 17
+ },
+ {
+   "manufacturer id": 255,
+   "manufacturer name": "Team Pharmaceuticals Ltd.",
+   "slug": "team-pharmaceuticals-ltd-255",
+   "generics count": 70,
+   "brand names count": 106
+ },
+ {
+   "manufacturer id": 95,
+   "manufacturer name": "Techno Drugs Ltd.",
+   "slug": "techno-drugs-ltd-95",
+   "generics count": 116,
+   "brand names count": 187
+ },
+ {
+   "manufacturer id": 96,
+   "manufacturer name": "The White Horse Pharma",
+   "slug": "the-white-horse-pharma-96",
+   "generics count": 87,
+   "brand names count": 122
+ },
+ {
+   "manufacturer id": 316,
+   "manufacturer name": "Total Natural Company",
+   "slug": "total-natural-company-316",
+   "generics count": 1,
+   "brand names count": 1
+ },
+ {
+   "manufacturer id": 97,
+   "manufacturer name": "Ultra Pharma Ltd.",
+   "slug": "ultra-pharma-ltd-97",
+   "generics count": 3,
+   "brand names count": 3
+ },
+ {
+   "manufacturer id": 77,
+   "manufacturer name": "UniMed UniHealth",
+   "slug": "unimed-unihealth-77",
+   "generics count": 249,
+   "brand names count": 440
+ },
+ {
+   "manufacturer id": 204,
+   "manufacturer name": "Unique Pharmaceuticals Ltd.",
+   "slug": "unique-pharmaceuticals-ltd-204",
+   "generics count": 1,
+   "brand names count": 1
+ },
+ {
+   "manufacturer id": 142,
+   "manufacturer name": "United Pharmaceuticals Ltd.",
+   "slug": "united-pharmaceuticals-ltd-142",
+   "generics count": 39,
+   "brand names count": 48
+ },
+ {
+   "manufacturer id": 126,
+   "manufacturer name": "Veritas Pharmaceuticals Ltd.",
+   "slug": "veritas-pharmaceuticals-ltd-126",
+   "generics count": 60,
+   "brand names count": 86
+ },
+ {
+   "manufacturer id": 158,
+   "manufacturer name": "Virgo Pharmaceuticals Ltd.",
+   "slug": "virgo-pharmaceuticals-ltd-158",
+   "generics count": 47,
+   "brand names count": 68
+ },
+ {
+   "manufacturer id": 303,
+   "manufacturer name": "West-Coast pharmaceutical works ltd.",
+   "slug": "west-coast-pharmaceutical-works-ltd-303",
+   "generics count": 1,
+   "brand names count": 1
+ },
+ {
+   "manufacturer id": 257,
+   "manufacturer name": "ZAS Corporation",
+   "slug": "zas-corporation-257",
+   "generics count": 31,
+   "brand names count": 38
+ },
+ {
+   "manufacturer id": 98,
+   "manufacturer name": "Zenith Pharmaceuticals Ltd.",
+   "slug": "zenith-pharmaceuticals-ltd-98",
+   "generics count": 98,
+   "brand names count": 146
+ },
+ {
+   "manufacturer id": 79,
+   "manufacturer name": "Ziska Pharmaceuticals Ltd.",
+   "slug": "ziska-pharmaceuticals-ltd-79",
+   "generics count": 151,
+   "brand names count": 275
+ },
+ {
+   "manufacturer id": 34,
+   "manufacturer name": "Hamdard Bangladesh",
+   "slug": "hamdard-bangladesh-34",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 301,
+   "manufacturer name": "Dabur India Limited",
+   "slug": "dabur-india-limited-301",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 315,
+   "manufacturer name": "HLL Lifecare Limited",
+   "slug": "hll-lifecare-limited-315",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 320,
+   "manufacturer name": "Gulf pharmaceutical industries",
+   "slug": "gulf-pharmaceutical-industries-320",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 218,
+   "manufacturer name": "Alpha Therapeutic Corporation",
+   "slug": "alpha-therapeutic-corporation-218",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 149,
+   "manufacturer name": "Grifols Biologicals LLC",
+   "slug": "grifols-biologicals-llc-149",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 150,
+   "manufacturer name": "Octapharma Pharmazeutica",
+   "slug": "octapharma-pharmazeutica-150",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 183,
+   "manufacturer name": "Eli Lilly and Company",
+   "slug": "eli-lilly-and-company-183",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 162,
+   "manufacturer name": "Cipla Limited",
+   "slug": "cipla-limited-162",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 198,
+   "manufacturer name": "Allergan, Inc.",
+   "slug": "allergan-inc-198",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 297,
+   "manufacturer name": "Lyomark Pharma, Germany",
+   "slug": "lyomark-pharma-germany-297",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 298,
+   "manufacturer name": "Hamlen Pharmaceuticals, Germany",
+   "slug": "hamlen-pharmaceuticals-germany-298",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 220,
+   "manufacturer name": "Fresenius Kabi",
+   "slug": "fresenius-kabi-220",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 284,
+   "manufacturer name": "Organon",
+   "slug": "organon-284",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 232,
+   "manufacturer name": "Gedeon Richter, Hungary",
+   "slug": "gedeon-richter-hungary-232",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 308,
+   "manufacturer name": "Boehringer Ingelheim",
+   "slug": "boehringer-ingelheim-308",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 329,
+   "manufacturer name": "ADM Protexin Ltd",
+   "slug": "adm-protexin-ltd-329",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 222,
+   "manufacturer name": "Nippon Kayaku Ltd.",
+   "slug": "nippon-kayaku-ltd-222",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 339,
+   "manufacturer name": "Pharma Resources",
+   "slug": "pharma-resources-339",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 194,
+   "manufacturer name": "Merck",
+   "slug": "merck-194",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 182,
+   "manufacturer name": "Lundbeck Pharmaceuticals Ltd.",
+   "slug": "lundbeck-pharmaceuticals-ltd-182",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 321,
+   "manufacturer name": "Xellia Pharmaceuticals, Denmark",
+   "slug": "xellia-pharmaceuticals-denmark-321",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 294,
+   "manufacturer name": "Serum Institute of India",
+   "slug": "serum-institute-of-india-294",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 181,
+   "manufacturer name": "Bristol Myers Squibb",
+   "slug": "bristol-myers-squibb-181",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 219,
+   "manufacturer name": "CSL Behring",
+   "slug": "csl-behring-219",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 334,
+   "manufacturer name": "AqVida GmbH",
+   "slug": "aqvida-gmbh-334",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 324,
+   "manufacturer name": "Laboratoires Panpharma, France",
+   "slug": "laboratoires-panpharma-france-324",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 325,
+   "manufacturer name": "Rotexmedica GmbH, Germany",
+   "slug": "rotexmedica-gmbh-germany-325",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 228,
+   "manufacturer name": "Chairon SPA",
+   "slug": "chairon-spa-228",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 286,
+   "manufacturer name": "Valneva",
+   "slug": "valneva-286",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 233,
+   "manufacturer name": "Abbott Laboratories",
+   "slug": "abbott-laboratories-233",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 210,
+   "manufacturer name": "Stiefel Laboratories Ltd.",
+   "slug": "stiefel-laboratories-ltd-210",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 238,
+   "manufacturer name": "Janssen-Cilag",
+   "slug": "janssen-cilag-238",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 283,
+   "manufacturer name": "Baxter",
+   "slug": "baxter-283",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 302,
+   "manufacturer name": "C.B. Fleet Company, USA",
+   "slug": "cb-fleet-company-usa-302",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 293,
+   "manufacturer name": "AstraZeneca pharmaceuticals",
+   "slug": "astrazeneca-pharmaceuticals-293",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 141,
+   "manufacturer name": "Pharmachemie BV",
+   "slug": "pharmachemie-bv-141",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 235,
+   "manufacturer name": "Hexal AG, Germany",
+   "slug": "hexal-ag-germany-235",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 214,
+   "manufacturer name": "Vifor International Ltd.",
+   "slug": "vifor-international-ltd-214",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 296,
+   "manufacturer name": "Fabrique en France",
+   "slug": "fabrique-en-france-296",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 309,
+   "manufacturer name": "Ferring Pharmaceuticals Ltd.",
+   "slug": "ferring-pharmaceuticals-ltd-309",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 282,
+   "manufacturer name": "Genzyme Corporation",
+   "slug": "genzyme-corporation-282",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 151,
+   "manufacturer name": "Leo Pharmaceuticals Ltd.",
+   "slug": "leo-pharmaceuticals-ltd-151",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 285,
+   "manufacturer name": "MSD",
+   "slug": "msd-285",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 209,
+   "manufacturer name": "Nicholas",
+   "slug": "nicholas-209",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 311,
+   "manufacturer name": "Eisai Pharmaceutical company",
+   "slug": "eisai-pharmaceutical-company-311",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 314,
+   "manufacturer name": "Piramal Enterprises Ltd.",
+   "slug": "piramal-enterprises-ltd-314",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 300,
+   "manufacturer name": "Kedrion Biopharma, Italy",
+   "slug": "kedrion-biopharma-italy-300",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 312,
+   "manufacturer name": "Johnson & Johnson",
+   "slug": "johnson-johnson-312",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 319,
+   "manufacturer name": "Efroze Chemical Industries Ltd",
+   "slug": "efroze-chemical-industries-ltd-319",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 223,
+   "manufacturer name": "Excella, Germany",
+   "slug": "excella-germany-223",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 185,
+   "manufacturer name": "EGIS Pharmaceuticals Ltd.",
+   "slug": "egis-pharmaceuticals-ltd-185",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 323,
+   "manufacturer name": "S.A. Alcon-Couvreur N.V.",
+   "slug": "sa-alcon-couvreur-nv-323",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 333,
+   "manufacturer name": "MERZ Pharma GmbH & Co.",
+   "slug": "merz-pharma-gmbh-co-333",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 164,
+   "manufacturer name": "Kyowa Hakko Kogyo",
+   "slug": "kyowa-hakko-kogyo-164",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 140,
+   "manufacturer name": "Choongwae Pharma Corporation",
+   "slug": "choongwae-pharma-corporation-140",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 291,
+   "manufacturer name": "JEO MED, Turkey",
+   "slug": "jeo-med-turkey-291",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 281,
+   "manufacturer name": "Biotest",
+   "slug": "biotest-281",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 226,
+   "manufacturer name": "Gosun Pharma Corp.",
+   "slug": "gosun-pharma-corp-226",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 328,
+   "manufacturer name": "Mylan Pharmaceutical industry company",
+   "slug": "mylan-pharmaceutical-industry-company-328",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 299,
+   "manufacturer name": "Piramal Critical Care, USA",
+   "slug": "piramal-critical-care-usa-299",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 317,
+   "manufacturer name": "Orion Corporation, Finland",
+   "slug": "orion-corporation-finland-317",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 322,
+   "manufacturer name": "Adienne Pharma, Switzerland",
+   "slug": "adienne-pharma-switzerland-322",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 239,
+   "manufacturer name": "Laboratorio Varifarma, Argentina",
+   "slug": "laboratorio-varifarma-argentina-239",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 310,
+   "manufacturer name": "Chepla Pharm-Gmbh",
+   "slug": "chepla-pharm-gmbh-310",
+   "generics count": null,
+   "brand names count": null
+ },
+ {
+   "manufacturer id": 326,
+   "manufacturer name": "ACM laboratoire dermatologique",
+   "slug": "acm-laboratoire-dermatologique-326",
+   "generics count": null,
+   "brand names count": null
+ }
+]

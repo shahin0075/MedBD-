@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedBD | বাংলাদেশের ঔষধ ডাটাবেস</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --gradient: linear-gradient(135deg, #3498db, #2c3e50);
+        }
+
+        body {
+            font-family: 'Kalpurush', sans-serif;
+            padding-top: 80px;
+            background: #f8f9fa;
+        }
+
+        .navbar {
+            background: var(--gradient) !important;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .nav-link[target="_blank"]::after {
+    content: "\f35d";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-left: 0.5rem;
+    opacity: 0.7;
+    font-size: 0.8em;
+    display: inline-block;
+}
+        .hero-section {
+            background: var(--gradient);
+            color: white;
+            padding: 120px 0 80px;
+            margin-bottom: 50px;
+            position: relative;
+        }
+
+        .section-header {
+            background: var(--gradient);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            margin: 30px 0;
+        }
+
+        .card {
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+        }
+
+        .search-box {
+            max-width: 800px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .pharmacology, .dosage {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 15px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .cursor-pointer { cursor: pointer; }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#">
+                <i class="fas fa-prescription-bottle-alt me-2"></i>MedBD
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link active" href="#medicines">ঔষধ</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#generics">জেনেরিক</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#manufacturers">কোম্পানি</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">পরিচিতি</a></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="dev.html" target="_blank" rel="noopener noreferrer">
+                            ডেভেলপার পরিচিতি
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="container text-center">
+            <h1 class="mb-4 display-4 fw-bold">বাংলাদেশের ঔষধ ডাটাবেস</h1>
+            <div class="search-box">
+                <div class="input-group">
+                    <input type="text" class="form-control form-control-lg shadow-sm" 
+                           placeholder="ঔষধ, জেনেরিক বা কোম্পানি খুঁজুন..." id="searchInput">
+                    <button class="btn btn-primary" type="button" id="searchButton">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                <div id="searchResults" class="mt-3"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Medicines Section -->
+        <section id="medicines" class="mb-5">
+            <div class="section-header">
+                <h2><i class="fas fa-pills me-2"></i>জনপ্রিয় ঔষধসমূহ</h2>
+            </div>
+            <div class="row g-4" id="randomMedicines"></div>
+        </section>
+
+        <!-- Generics Section -->
+        <section id="generics" class="mb-5" style="display: none;">
+            <div class="section-header">
+                <h2><i class="fas fa-dna me-2"></i>জেনেরিক সমূহ</h2>
+            </div>
+            <div class="row g-4" id="genericList"></div>
+        </section>
+
+        <!-- Manufacturers Section -->
+        <section id="manufacturers" class="mb-5" style="display: none;">
+            <div class="section-header">
+                <h2><i class="fas fa-industry me-2"></i>ঔষধ কোম্পানি</h2>
+            </div>
+            <div class="row g-4" id="manufacturerList"></div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="mb-5" style="display: none;">
+            <div class="section-header">
+                <h2><i class="fas fa-info-circle me-2"></i>পরিচিতি</h2>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">প্রকল্প সম্পর্কে</h5>
+                    <p class="card-text">
+                        বাংলাদেশের সকল ঔষধের তথ্য একত্রিত করার জন্য এই প্ল্যাটফর্ম তৈরি করা হয়েছে।
+                        ২৫,০০০+ ঔষধের ডাটা, মূল্য এবং ফার্মাসিউটিক্যাল কোম্পানির তথ্য সহজেই খুঁজুন।
+                    </p>
+                    <div class="row text-center">
+                        <div class="col-md-4 mb-3">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h3 class="text-primary" id="totalMedicines">0</h3>
+                                    <p>মোট ঔষধ</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h3 class="text-primary" id="totalGenerics">0</h3>
+                                    <p>জেনেরিক</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h3 class="text-primary" id="totalManufacturers">0</h3>
+                                    <p>কোম্পানি</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Modals -->
+    <div class="modal fade" id="medicineModal" tabindex="-1">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="medicineTitle"></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body" id="medicineDetail"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="genericModal" tabindex="-1">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="genericTitle"></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body" id="genericDetail"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="manufacturerModal" tabindex="-1">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="manufacturerTitle"></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body" id="manufacturerDetail"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container text-center">
+            <p class="mb-0">&copy; ২০২৫ MedBD. সর্বস্বত্ব সংরক্ষিত</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const dataStore = {
+            medicines: [],
+            generics: [],
+            manufacturers: [],
+            indications: [],
+            drugClasses: [],
+            dosageForms: []
+        };
+    
+        // ডাটা লোড করুন
+        async function loadData() {
+            try {
+                const responses = await Promise.all([
+                    fetch('medicine.json'),
+                    fetch('generic.json'),
+                    fetch('manufacturer.json'),
+                    fetch('indication.json'),
+                    fetch('drugclass.json'),
+                    fetch('dosageform.json')
+                ]);
+                
+                const data = await Promise.all(responses.map(r => r.json()));
+                
+                dataStore.medicines = data[0];
+                dataStore.generics = data[1];
+                dataStore.manufacturers = data[2];
+                dataStore.indications = data[3];
+                dataStore.drugClasses = data[4];
+                dataStore.dosageForms = data[5];
+    
+                initializeApp();
+            } catch (error) {
+                console.error('ডাটা লোডে সমস্যা:', error);
+                alert('ডাটা লোড করতে সমস্যা হয়েছে! পেজ রিলোড করুন।');
+            }
+        }
+    
+        // অ্যাপ্লিকেশন শুরু করুন
+        function initializeApp() {
+            updateStatistics();
+            setupNavigation();
+            setupSearch();
+            showRandomMedicines();
+        }
+    
+        // পরিসংখ্যান আপডেট করুন
+        function updateStatistics() {
+            document.getElementById('totalMedicines').textContent = 
+                new Intl.NumberFormat('bn-BD').format(dataStore.medicines.length);
+            document.getElementById('totalGenerics').textContent = 
+                new Intl.NumberFormat('bn-BD').format(dataStore.generics.length);
+            document.getElementById('totalManufacturers').textContent = 
+                new Intl.NumberFormat('bn-BD').format(dataStore.manufacturers.length);
+        }
+    
+        // নেভিগেশন সেটআপ করুন
+function setupNavigation() {
+    document.querySelectorAll('.nav-link').forEach(link => {
+        link.addEventListener('click', function(e) {
+            const href = this.getAttribute('href');
+            
+            // শুধুমাত্র হ্যাশ লিংকের জন্য
+            if(href.startsWith('#')) {
+                e.preventDefault();
+                
+                document.querySelectorAll('main > section').forEach(section => {
+                    section.style.display = 'none';
+                });
+                
+                const targetSection = document.querySelector(href);
+                if(targetSection) {
+                    targetSection.style.display = 'block';
+                    
+                    if(href === '#generics') showGenericList();
+                    if(href === '#manufacturers') showManufacturerList();
+                }
+            }
+                });
+            });
+        }
+    
+        // সার্চ ফাংশনালিটি
+        function setupSearch() {
+            const searchInput = document.getElementById('searchInput');
+            const searchButton = document.getElementById('searchButton');
+    
+            const performSearch = () => {
+                const query = searchInput.value.toLowerCase().trim();
+                if(query.length < 2) {
+                    document.getElementById('searchResults').innerHTML = '';
+                    return;
+                }
+    
+                const results = [
+                    ...searchMedicines(query),
+                    ...searchGenerics(query),
+                    ...searchManufacturers(query)
+                ].sort((a, b) => b.score - a.score);
+    
+                displaySearchResults(results.slice(0, 5));
+            };
+    
+            searchInput.addEventListener('input', performSearch);
+            searchButton.addEventListener('click', performSearch);
+        }
+    
+        // ঔষধ খুঁজুন
+        function searchMedicines(query) {
+            return dataStore.medicines
+                .filter(medicine => 
+                    medicine['brand name'].toLowerCase().includes(query) ||
+                    (medicine.generic && medicine.generic.toLowerCase().includes(query)) ||
+                    (medicine.manufacturer && medicine.manufacturer.toLowerCase().includes(query))
+                )
+                .map(medicine => ({
+                    type: 'medicine',
+                    data: medicine,
+                    score: calculateRelevanceScore(medicine['brand name'], query)
+                }));
+        }
+    
+        // জেনেরিক খুঁজুন
+        function searchGenerics(query) {
+            return dataStore.generics
+                .filter(generic => 
+                    generic['generic name'].toLowerCase().includes(query) ||
+                    (generic['drug class'] && generic['drug class'].toLowerCase().includes(query))
+                )
+                .map(generic => ({
+                    type: 'generic',
+                    data: generic,
+                    score: calculateRelevanceScore(generic['generic name'], query)
+                }));
+        }
+    
+        // প্রস্তুতকারক খুঁজুন
+        function searchManufacturers(query) {
+            return dataStore.manufacturers
+                .filter(manufacturer => 
+                    manufacturer['manufacturer name'].toLowerCase().includes(query)
+                )
+                .map(manufacturer => ({
+                    type: 'manufacturer',
+                    data: manufacturer,
+                    score: calculateRelevanceScore(manufacturer['manufacturer name'], query)
+                }));
+        }
+    
+        // প্রাসঙ্গিকতা স্কোর গণনা করুন
+        function calculateRelevanceScore(text, query) {
+            const index = text.toLowerCase().indexOf(query);
+            if(index === -1) return 0;
+            return (text.length - index) / text.length;
+        }
+    
+        // সার্চ ফলাফল দেখান
+        function displaySearchResults(results) {
+            const container = document.getElementById('searchResults');
+            container.innerHTML = results.map(item => `
+                <div class="card mb-2 cursor-pointer" 
+                    onclick="handleSearchResult('${item.type}', ${item.data['brand id'] || item.data['generic id'] || item.data['manufacturer id']})">
+                    <div class="card-body">
+                        <h5 class="mb-1">
+                            ${getSearchResultIcon(item.type)} 
+                            ${getSearchResultTitle(item)}
+                        </h5>
+                        <p class="text-muted mb-0">${getSearchResultSubtitle(item)}</p>
+                    </div>
+                </div>
+            `).join('');
+        }
+    
+        // সার্চ রেজাল্ট আইকন পান
+        function getSearchResultIcon(type) {
+            const icons = {
+                'medicine': '<i class="fas fa-pills me-2"></i>',
+                'generic': '<i class="fas fa-dna me-2"></i>',
+                'manufacturer': '<i class="fas fa-industry me-2"></i>'
+            };
+            return icons[type] || '';
+        }
+    
+        // সার্চ রেজাল্ট শিরোনাম পান
+        function getSearchResultTitle(item) {
+            return item.data['brand name'] || 
+                   item.data['generic name'] || 
+                   item.data['manufacturer name'];
+        }
+    
+        // সার্চ রেজাল্ট সাবটাইটেল পান
+        function getSearchResultSubtitle(item) {
+            if(item.type === 'medicine') return item.data.generic;
+            if(item.type === 'generic') return item.data['drug class'];
+            if(item.type === 'manufacturer') return `${item.data['brand names count']} ব্র্যান্ড`;
+            return '';
+        }
+    
+        // সার্চ রেজাল্ট হ্যান্ডেল করুন
+        function handleSearchResult(type, id) {
+            if(type === 'medicine') showMedicineDetail(id);
+            if(type === 'generic') showGenericDetail(id);
+            if(type === 'manufacturer') showManufacturerDetail(id);
+        }
+    
+        // র‍্যান্ডম ঔষধ দেখান
+        function showRandomMedicines(count = 9) {
+            const container = document.getElementById('randomMedicines');
+            const shuffled = [...dataStore.medicines].sort(() => 0.5 - Math.random());
+            const selected = shuffled.slice(0, count);
+            
+            container.innerHTML = selected.map(medicine => `
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5>${medicine['brand name']}</h5>
+                            <p class="text-muted">${medicine.generic}</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span class="badge bg-primary">${medicine.strength}</span>
+                                <span class="text-primary">${medicine.manufacturer}</span>
+                            </div>
+                            <button class="btn btn-primary w-100 mt-3" 
+                                onclick="showMedicineDetail(${medicine['brand id']})">
+                                <i class="fas fa-info-circle me-2"></i>বিস্তারিত দেখুন
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+    
+        // জেনেরিক লিস্ট দেখান
+        function showGenericList() {
+            const container = document.getElementById('genericList');
+            container.innerHTML = dataStore.generics.map(generic => `
+                <div class="col-md-6 mb-3">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5>${generic['generic name']}</h5>
+                            <p class="text-muted">${generic['drug class']}</p>
+                            <button class="btn btn-primary" 
+                                onclick="showGenericDetail(${generic['generic id']})">
+                                ব্র্যান্ডসমূহ দেখুন
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+    
+        // প্রস্তুতকারক লিস্ট দেখান
+        function showManufacturerList() {
+            const container = document.getElementById('manufacturerList');
+            container.innerHTML = dataStore.manufacturers.map(manufacturer => `
+                <div class="col-md-6 mb-3">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5>${manufacturer['manufacturer name']}</h5>
+                            <p class="text-muted">${manufacturer['brand names count']} টি ব্র্যান্ড</p>
+                            <button class="btn btn-primary" 
+                                onclick="showManufacturerDetail(${manufacturer['manufacturer id']})">
+                                বিস্তারিত দেখুন
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+    
+        // ঔষধের বিস্তারিত দেখান
+        function showMedicineDetail(id) {
+            const medicine = dataStore.medicines.find(m => m['brand id'] === id);
+            const generic = dataStore.generics.find(g => g['generic name'] === medicine.generic);
+            const manufacturer = dataStore.manufacturers.find(m => m['manufacturer name'] === medicine.manufacturer);
+            const dosageForm = dataStore.dosageForms.find(df => df['dosage form name'] === medicine['dosage form']);
+    
+            const detailHTML = `
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>মৌলিক তথ্য</h5>
+                        <ul class="list-group mb-4">
+                            ${createDetailListItem('ব্র্যান্ড নাম', medicine['brand name'])}
+                            ${createDetailListItem('জেনেরিক নাম', generic?.['generic name'])}
+                            ${createDetailListItem('প্রস্তুতকারক', manufacturer?.['manufacturer name'])}
+                            ${createDetailListItem('মূল্য', medicine['package container'], 'text-success')}
+                        </ul>
+    
+                        <h5>ডোজ ফর্ম</h5>
+                        <div class="card mb-4">
+                            <div class="card-body">
+                                ${dosageForm?.['dosage form name'] || 'তথ্য নেই'}
+                            </div>
+                        </div>
+                    </div>
+    
+                    <div class="col-md-6">
+                        <h5>চিকিৎসা তথ্য</h5>
+                        <div class="pharmacology mb-4">
+                            <h6>ফার্মাকোলজি:</h6>
+                            ${generic?.['pharmacology description'] || 'তথ্য নেই'}
+                        </div>
+                        
+                        <div class="dosage mb-4">
+                            <h6>ডোজ নির্দেশনা:</h6>
+                            ${generic?.['dosage description'] || 'তথ্য নেই'}
+                        </div>
+    
+                        <div class="side-effects">
+                            <h6>পার্শ্বপ্রতিক্রিয়া:</h6>
+                            ${generic?.['side effects description'] || 'তথ্য নেই'}
+                        </div>
+                    </div>
+                </div>
+            `;
+    
+            showModal('#medicineModal', medicine['brand name'], detailHTML);
+        }
+    
+        // জেনেরিক বিস্তারিত দেখান
+        function showGenericDetail(id) {
+            const generic = dataStore.generics.find(g => g['generic id'] === id);
+            const relatedMeds = dataStore.medicines.filter(m => m.generic === generic['generic name']);
+    
+            const detailHTML = `
+                <h5>${generic['generic name']}</h5>
+                <div class="pharmacology mb-4">
+                    ${generic['pharmacology description'] || 'তথ্য নেই'}
+                </div>
+                
+                <h6>সম্পর্কিত ব্র্যান্ডসমূহ:</h6>
+                <div class="row g-3">
+                    ${relatedMeds.slice(0,6).map(med => `
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h6>${med['brand name']}</h6>
+                                    <p class="text-muted">${med.manufacturer}</p>
+                                    <small>${med.strength}</small>
+                                </div>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+    
+            showModal('#genericModal', generic['generic name'], detailHTML);
+        }
+    
+        // প্রস্তুতকারক বিস্তারিত দেখান
+        function showManufacturerDetail(id) {
+            const manufacturer = dataStore.manufacturers.find(m => m['manufacturer id'] === id);
+            const brands = dataStore.medicines.filter(m => m.manufacturer === manufacturer['manufacturer name']);
+    
+            const detailHTML = `
+                <h5>${manufacturer['manufacturer name']}</h5>
+                <p class="text-muted">${manufacturer['brand names count']} টি ব্র্যান্ড</p>
+                
+                <h6>জনপ্রিয় ব্র্যান্ডসমূহ:</h6>
+                <div class="row g-3">
+                    ${brands.slice(0,6).map(brand => `
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h6>${brand['brand name']}</h6>
+                                    <p class="text-muted">${brand.generic}</p>
+                                    <small>${brand.strength}</small>
+                                </div>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+    
+            showModal('#manufacturerModal', manufacturer['manufacturer name'], detailHTML);
+        }
+    
+        // লিস্ট আইটেম তৈরি করুন
+        function createDetailListItem(label, value, textClass = '') {
+            if(!value) return '';
+            return `
+                <li class="list-group-item d-flex justify-content-between">
+                    <span>${label}:</span>
+                    <strong class="${textClass}">${value}</strong>
+                </li>
+            `;
+        }
+    
+        // মডাল দেখান
+        function showModal(modalId, title, content) {
+            document.querySelector(`${modalId} .modal-title`).textContent = title;
+            document.querySelector(`${modalId} .modal-body`).innerHTML = content;
+            new bootstrap.Modal(document.querySelector(modalId)).show();
+        }
+    
+        // শুরু করুন
+        loadData();
+    </script>

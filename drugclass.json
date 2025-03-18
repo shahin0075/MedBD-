@@ -1,0 +1,2720 @@
+[
+ {
+   "drug class id": 21,
+   "drug class name": "Anaphylaxis",
+   "slug": "anaphylaxis-21",
+   "generics count": 1
+ },
+ {
+   "drug class id": 68,
+   "drug class name": "Intracellular antibiotic",
+   "slug": "intracellular-antibiotic-68",
+   "generics count": 1
+ },
+ {
+   "drug class id": 648,
+   "drug class name": "Glycopeptide",
+   "slug": "glycopeptide-648",
+   "generics count": 1
+ },
+ {
+   "drug class id": 64,
+   "drug class name": "Fourth generation Cephalosporins",
+   "slug": "fourth-generation-cephalosporins-64",
+   "generics count": 2
+ },
+ {
+   "drug class id": 63,
+   "drug class name": "First generation Cephalosporins",
+   "slug": "first-generation-cephalosporins-63",
+   "generics count": 4
+ },
+ {
+   "drug class id": 565,
+   "drug class name": "Eye Anti-Infectives & Antiseptics",
+   "slug": "eye-anti-infectives-antiseptics-565",
+   "generics count": 2
+ },
+ {
+   "drug class id": 566,
+   "drug class name": "Ear Anti-Infectives & Antiseptics",
+   "slug": "ear-anti-infectives-antiseptics-566",
+   "generics count": 1
+ },
+ {
+   "drug class id": 62,
+   "drug class name": "Combined anti- Tubercular Preparations",
+   "slug": "combined-anti-tubercular-preparations-62",
+   "generics count": 3
+ },
+ {
+   "drug class id": 61,
+   "drug class name": "Broad spectrum penicillins",
+   "slug": "broad-spectrum-penicillins-61",
+   "generics count": 3
+ },
+ {
+   "drug class id": 60,
+   "drug class name": "Benzylpenicillin & Phenoxymethyl penicillin",
+   "slug": "benzylpenicillin-phenoxymethyl-penicillin-60",
+   "generics count": 3
+ },
+ {
+   "drug class id": 59,
+   "drug class name": "Anti-Tubercular Chemotherapeutics",
+   "slug": "anti-tubercular-chemotherapeutics-59",
+   "generics count": 3
+ },
+ {
+   "drug class id": 58,
+   "drug class name": "Anti-Tubercular Antibiotics",
+   "slug": "anti-tubercular-antibiotics-58",
+   "generics count": 2
+ },
+ {
+   "drug class id": 57,
+   "drug class name": "Anti-Leprotic drugs",
+   "slug": "anti-leprotic-drugs-57",
+   "generics count": 1
+ },
+ {
+   "drug class id": 56,
+   "drug class name": "Aminoglycosides",
+   "slug": "aminoglycosides-56",
+   "generics count": 4
+ },
+ {
+   "drug class id": 55,
+   "drug class name": "4-Quinolone preparations",
+   "slug": "4-quinolone-preparations-55",
+   "generics count": 16
+ },
+ {
+   "drug class id": 49,
+   "drug class name": "Non depolarizing muscle relaxants",
+   "slug": "non-depolarizing-muscle-relaxants-49",
+   "generics count": 5
+ },
+ {
+   "drug class id": 639,
+   "drug class name": "Tyrosine Kinase Inhibitor",
+   "slug": "tyrosine-kinase-inhibitor-639",
+   "generics count": 7
+ },
+ {
+   "drug class id": 449,
+   "drug class name": "Silymarin",
+   "slug": "silymarin-449",
+   "generics count": 0
+ },
+ {
+   "drug class id": 456,
+   "drug class name": "Salmon Calcitonin",
+   "slug": "salmon-calcitonin-456",
+   "generics count": 0
+ },
+ {
+   "drug class id": 455,
+   "drug class name": "Purified Soybean Oil",
+   "slug": "purified-soybean-oil-455",
+   "generics count": 0
+ },
+ {
+   "drug class id": 620,
+   "drug class name": "Oxidising agent with antibacterial and antiviral properties",
+   "slug": "oxidising-agent-with-antibacterial-and-antiviral-properties-620",
+   "generics count": 1
+ },
+ {
+   "drug class id": 451,
+   "drug class name": "Nitrous Oxide 98 % Gas",
+   "slug": "nitrous-oxide-98-gas-451",
+   "generics count": 0
+ },
+ {
+   "drug class id": 453,
+   "drug class name": "Nicotine",
+   "slug": "nicotine-453",
+   "generics count": 0
+ },
+ {
+   "drug class id": 615,
+   "drug class name": "Haemostatics",
+   "slug": "haemostatics-615",
+   "generics count": 1
+ },
+ {
+   "drug class id": 611,
+   "drug class name": "Haematopoietic Agents",
+   "slug": "haematopoietic-agents-611",
+   "generics count": 4
+ },
+ {
+   "drug class id": 634,
+   "drug class name": "Farnesoid X Receptor Agonists",
+   "slug": "farnesoid-x-receptor-agonists-634",
+   "generics count": 1
+ },
+ {
+   "drug class id": 452,
+   "drug class name": "Black Seed Oil",
+   "slug": "black-seed-oil-452",
+   "generics count": 0
+ },
+ {
+   "drug class id": 448,
+   "drug class name": "loversol",
+   "slug": "loversol-448",
+   "generics count": 0
+ },
+ {
+   "drug class id": 443,
+   "drug class name": "lopanoic Acid",
+   "slug": "lopanoic-acid-443",
+   "generics count": 0
+ },
+ {
+   "drug class id": 447,
+   "drug class name": "lopamidol",
+   "slug": "lopamidol-447",
+   "generics count": 0
+ },
+ {
+   "drug class id": 446,
+   "drug class name": "lohexol",
+   "slug": "lohexol-446",
+   "generics count": 0
+ },
+ {
+   "drug class id": 445,
+   "drug class name": "lodixanol",
+   "slug": "lodixanol-445",
+   "generics count": 0
+ },
+ {
+   "drug class id": 441,
+   "drug class name": "Gadoversetamide",
+   "slug": "gadoversetamide-441",
+   "generics count": 0
+ },
+ {
+   "drug class id": 442,
+   "drug class name": "Gadodiamide",
+   "slug": "gadodiamide-442",
+   "generics count": 0
+ },
+ {
+   "drug class id": 444,
+   "drug class name": "Barium Sulphate",
+   "slug": "barium-sulphate-444",
+   "generics count": 0
+ },
+ {
+   "drug class id": 638,
+   "drug class name": "Pyrrolopyrimidines",
+   "slug": "pyrrolopyrimidines-638",
+   "generics count": 1
+ },
+ {
+   "drug class id": 440,
+   "drug class name": "Other preparations",
+   "slug": "other-preparations-440",
+   "generics count": 6
+ },
+ {
+   "drug class id": 640,
+   "drug class name": "Immunomodulator",
+   "slug": "immunomodulator-640",
+   "generics count": 1
+ },
+ {
+   "drug class id": 645,
+   "drug class name": "Herbal and Nutraceuticals",
+   "slug": "herbal-and-nutraceuticals-645",
+   "generics count": 153
+ },
+ {
+   "drug class id": 439,
+   "drug class name": "Contrast medium for diagnostic procedures",
+   "slug": "contrast-medium-for-diagnostic-procedures-439",
+   "generics count": 6
+ },
+ {
+   "drug class id": 636,
+   "drug class name": "Carboxylic acids and derivatives",
+   "slug": "carboxylic-acids-and-derivatives-636",
+   "generics count": 2
+ },
+ {
+   "drug class id": 607,
+   "drug class name": "Thyroid drugs & hormone",
+   "slug": "thyroid-drugs-hormone-607",
+   "generics count": 4
+ },
+ {
+   "drug class id": 606,
+   "drug class name": "Anti-thyroid drugs",
+   "slug": "anti-thyroid-drugs-606",
+   "generics count": 2
+ },
+ {
+   "drug class id": 617,
+   "drug class name": "Trophic Hormones & Related Synthetic Drugs",
+   "slug": "trophic-hormones-related-synthetic-drugs-617",
+   "generics count": 3
+ },
+ {
+   "drug class id": 605,
+   "drug class name": "Growth hormone antagonist",
+   "slug": "growth-hormone-antagonist-605",
+   "generics count": 2
+ },
+ {
+   "drug class id": 604,
+   "drug class name": "Drugs affecting (inhibiting) gonadotrophin",
+   "slug": "drugs-affecting-inhibiting-gonadotrophin-604",
+   "generics count": 4
+ },
+ {
+   "drug class id": 603,
+   "drug class name": "Hormone preparations for other uses",
+   "slug": "hormone-preparations-for-other-uses-603",
+   "generics count": 2
+ },
+ {
+   "drug class id": 601,
+   "drug class name": "Drugs for Milk suppression",
+   "slug": "drugs-for-milk-suppression-601",
+   "generics count": 0
+ },
+ {
+   "drug class id": 602,
+   "drug class name": "Drugs for menopausal symptoms: Hormone replacement therapy",
+   "slug": "drugs-for-menopausal-symptoms-hormone-replacement-therapy-602",
+   "generics count": 8
+ },
+ {
+   "drug class id": 600,
+   "drug class name": "Drugs for Infertility",
+   "slug": "drugs-for-infertility-600",
+   "generics count": 9
+ },
+ {
+   "drug class id": 599,
+   "drug class name": "Drugs for Growth failure",
+   "slug": "drugs-for-growth-failure-599",
+   "generics count": 1
+ },
+ {
+   "drug class id": 598,
+   "drug class name": "Calcium Regulator",
+   "slug": "calcium-regulator-598",
+   "generics count": 2
+ },
+ {
+   "drug class id": 597,
+   "drug class name": "Oral Contraceptive preparations",
+   "slug": "oral-contraceptive-preparations-597",
+   "generics count": 19
+ },
+ {
+   "drug class id": 596,
+   "drug class name": "Male Sex hormones (Androgens)",
+   "slug": "male-sex-hormones-androgens-596",
+   "generics count": 2
+ },
+ {
+   "drug class id": 595,
+   "drug class name": "Hormonal Implants",
+   "slug": "hormonal-implants-595",
+   "generics count": 0
+ },
+ {
+   "drug class id": 594,
+   "drug class name": "Gonadotropin-releasing hormone (GnRH) antagonist",
+   "slug": "gonadotropin-releasing-hormone-gnrh-antagonist-594",
+   "generics count": 2
+ },
+ {
+   "drug class id": 593,
+   "drug class name": "Female Sex hormones",
+   "slug": "female-sex-hormones-593",
+   "generics count": 19
+ },
+ {
+   "drug class id": 608,
+   "drug class name": "Emergency Contraceptive Pill",
+   "slug": "emergency-contraceptive-pill-608",
+   "generics count": 2
+ },
+ {
+   "drug class id": 592,
+   "drug class name": "Anabolic steroid (Androgens)",
+   "slug": "anabolic-steroid-androgens-592",
+   "generics count": 2
+ },
+ {
+   "drug class id": 591,
+   "drug class name": "Aldose reductase inhibitor",
+   "slug": "aldose-reductase-inhibitor-591",
+   "generics count": 1
+ },
+ {
+   "drug class id": 590,
+   "drug class name": "Adjunct anti-epileptic drugs",
+   "slug": "adjunct-anti-epileptic-drugs-590",
+   "generics count": 13
+ },
+ {
+   "drug class id": 589,
+   "drug class name": "Glucocorticoids",
+   "slug": "glucocorticoids-589",
+   "generics count": 10
+ },
+ {
+   "drug class id": 588,
+   "drug class name": "Short Acting Insulin",
+   "slug": "short-acting-insulin-588",
+   "generics count": 0
+ },
+ {
+   "drug class id": 587,
+   "drug class name": "Rapid Acting Insulin",
+   "slug": "rapid-acting-insulin-587",
+   "generics count": 6
+ },
+ {
+   "drug class id": 586,
+   "drug class name": "Medium Acting Insulin",
+   "slug": "medium-acting-insulin-586",
+   "generics count": 1
+ },
+ {
+   "drug class id": 585,
+   "drug class name": "Long Acting Insulin",
+   "slug": "long-acting-insulin-585",
+   "generics count": 4
+ },
+ {
+   "drug class id": 584,
+   "drug class name": "GLP-1 receptor agonists",
+   "slug": "glp-1-receptor-agonists-584",
+   "generics count": 4
+ },
+ {
+   "drug class id": 583,
+   "drug class name": "Combination Insulin",
+   "slug": "combination-insulin-583",
+   "generics count": 3
+ },
+ {
+   "drug class id": 582,
+   "drug class name": "Thiazolidinedione Group",
+   "slug": "thiazolidinedione-group-582",
+   "generics count": 1
+ },
+ {
+   "drug class id": 581,
+   "drug class name": "Sulfonylureas",
+   "slug": "sulfonylureas-581",
+   "generics count": 4
+ },
+ {
+   "drug class id": 580,
+   "drug class name": "Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors",
+   "slug": "sodium-glucose-cotransporter-2-sglt2-inhibitors-580",
+   "generics count": 4
+ },
+ {
+   "drug class id": 579,
+   "drug class name": "Meglitinide Analogues",
+   "slug": "meglitinide-analogues-579",
+   "generics count": 2
+ },
+ {
+   "drug class id": 578,
+   "drug class name": "Dipeptidyl Peptidase-4 (DPP-4) inhibitor",
+   "slug": "dipeptidyl-peptidase-4-dpp-4-inhibitor-578",
+   "generics count": 6
+ },
+ {
+   "drug class id": 577,
+   "drug class name": "Combination Oral hypoglycemic preparations",
+   "slug": "combination-oral-hypoglycemic-preparations-577",
+   "generics count": 10
+ },
+ {
+   "drug class id": 576,
+   "drug class name": "Biguanides",
+   "slug": "biguanides-576",
+   "generics count": 1
+ },
+ {
+   "drug class id": 612,
+   "drug class name": "Alpha-Glucosidase inhibitor",
+   "slug": "alpha-glucosidase-inhibitor-612",
+   "generics count": 3
+ },
+ {
+   "drug class id": 564,
+   "drug class name": "Preparations for Oral Ulceration & Inflammation",
+   "slug": "preparations-for-oral-ulceration-inflammation-564",
+   "generics count": 1
+ },
+ {
+   "drug class id": 153,
+   "drug class name": "Non-steroidal Anti-inflammatory Drugs (NSAIDs)",
+   "slug": "non-steroidal-anti-inflammatory-drugs-nsaids-153",
+   "generics count": 31
+ },
+ {
+   "drug class id": 152,
+   "drug class name": "Non-Opioid Analgesics",
+   "slug": "non-opioid-analgesics-152",
+   "generics count": 3
+ },
+ {
+   "drug class id": 491,
+   "drug class name": "Respiratory stimulants: analeptics",
+   "slug": "respiratory-stimulants-analeptics-491",
+   "generics count": 3
+ },
+ {
+   "drug class id": 490,
+   "drug class name": "Pulmonary surfactants",
+   "slug": "pulmonary-surfactants-490",
+   "generics count": 1
+ },
+ {
+   "drug class id": 660,
+   "drug class name": "Non-prostanoid IP prostacyclin receptor agonist",
+   "slug": "non-prostanoid-ip-prostacyclin-receptor-agonist-660",
+   "generics count": 1
+ },
+ {
+   "drug class id": 489,
+   "drug class name": "Cough suppressant",
+   "slug": "cough-suppressant-489",
+   "generics count": 4
+ },
+ {
+   "drug class id": 488,
+   "drug class name": "Cough expectorants & mucolytics",
+   "slug": "cough-expectorants-mucolytics-488",
+   "generics count": 6
+ },
+ {
+   "drug class id": 487,
+   "drug class name": "Combined cough suppressants",
+   "slug": "combined-cough-suppressants-487",
+   "generics count": 5
+ },
+ {
+   "drug class id": 486,
+   "drug class name": "Combined cough expectorants",
+   "slug": "combined-cough-expectorants-486",
+   "generics count": 6
+ },
+ {
+   "drug class id": 485,
+   "drug class name": "Theophylline & related drugs",
+   "slug": "theophylline-related-drugs-485",
+   "generics count": 2
+ },
+ {
+   "drug class id": 484,
+   "drug class name": "Short-acting selective & β2-adrenoceptor stimulants",
+   "slug": "short-acting-selective-β2-adrenoceptor-stimulants-484",
+   "generics count": 7
+ },
+ {
+   "drug class id": 483,
+   "drug class name": "Respiratory corticosteroids",
+   "slug": "respiratory-corticosteroids-483",
+   "generics count": 13
+ },
+ {
+   "drug class id": 481,
+   "drug class name": "Methyl xanthine derivatives",
+   "slug": "methyl-xanthine-derivatives-481",
+   "generics count": 2
+ },
+ {
+   "drug class id": 480,
+   "drug class name": "Long-acting selective β-adrenoceptor stimulants",
+   "slug": "long-acting-selective-β-adrenoceptor-stimulants-480",
+   "generics count": 4
+ },
+ {
+   "drug class id": 479,
+   "drug class name": "Leukotriene receptor antagonists",
+   "slug": "leukotriene-receptor-antagonists-479",
+   "generics count": 2
+ },
+ {
+   "drug class id": 478,
+   "drug class name": "Cromoglycate & related drugs",
+   "slug": "cromoglycate-related-drugs-478",
+   "generics count": 1
+ },
+ {
+   "drug class id": 477,
+   "drug class name": "Combined bronchodilators",
+   "slug": "combined-bronchodilators-477",
+   "generics count": 6
+ },
+ {
+   "drug class id": 637,
+   "drug class name": "Bronchodilator",
+   "slug": "bronchodilator-637",
+   "generics count": 6
+ },
+ {
+   "drug class id": 476,
+   "drug class name": "Antihistamines anti-allergies & hypo-sensitisation",
+   "slug": "antihistamines-anti-allergies-hypo-sensitisation-476",
+   "generics count": 2
+ },
+ {
+   "drug class id": 475,
+   "drug class name": "Anticholinergic bronchodilators",
+   "slug": "anticholinergic-bronchodilators-475",
+   "generics count": 3
+ },
+ {
+   "drug class id": 471,
+   "drug class name": "Topical anti-inflammatory preparations",
+   "slug": "topical-anti-inflammatory-preparations-471",
+   "generics count": 9
+ },
+ {
+   "drug class id": 470,
+   "drug class name": "Enzymes",
+   "slug": "enzymes-470",
+   "generics count": 1
+ },
+ {
+   "drug class id": 659,
+   "drug class name": "Painkiller Muscle Relaxant",
+   "slug": "painkiller-muscle-relaxant-659",
+   "generics count": 1
+ },
+ {
+   "drug class id": 469,
+   "drug class name": "Locally acting Skeletal Muscle Relaxants",
+   "slug": "locally-acting-skeletal-muscle-relaxants-469",
+   "generics count": 3
+ },
+ {
+   "drug class id": 468,
+   "drug class name": "Drugs used in Myasthenia Gravis",
+   "slug": "drugs-used-in-myasthenia-gravis-468",
+   "generics count": 2
+ },
+ {
+   "drug class id": 467,
+   "drug class name": "Drugs used in Cerebral Palsy",
+   "slug": "drugs-used-in-cerebral-palsy-467",
+   "generics count": 1
+ },
+ {
+   "drug class id": 466,
+   "drug class name": "Centrally acting Skeletal Muscle Relaxants",
+   "slug": "centrally-acting-skeletal-muscle-relaxants-466",
+   "generics count": 8
+ },
+ {
+   "drug class id": 465,
+   "drug class name": "Non-steroidal Anti-inflammatory Drugs (NSAIDs)",
+   "slug": "non-steroidal-anti-inflammatory-drugs-nsaids-465",
+   "generics count": 31
+ },
+ {
+   "drug class id": 462,
+   "drug class name": "Drugs used in Gout",
+   "slug": "drugs-used-in-gout-462",
+   "generics count": 5
+ },
+ {
+   "drug class id": 461,
+   "drug class name": "Drugs used for Rheumatoid Arthritis",
+   "slug": "drugs-used-for-rheumatoid-arthritis-461",
+   "generics count": 32
+ },
+ {
+   "drug class id": 460,
+   "drug class name": "Disease-modifying antirheumatic drugs (DMARDs)",
+   "slug": "disease-modifying-antirheumatic-drugs-dmards-460",
+   "generics count": 3
+ },
+ {
+   "drug class id": 437,
+   "drug class name": "Urinary Alkalinizing Agent",
+   "slug": "urinary-alkalinizing-agent-437",
+   "generics count": 2
+ },
+ {
+   "drug class id": 436,
+   "drug class name": "Systemic Urinary Anti- infective",
+   "slug": "systemic-urinary-anti-infective-436",
+   "generics count": 3
+ },
+ {
+   "drug class id": 435,
+   "drug class name": "Other Systemic Anti-infective Effective in Urinary tract infections",
+   "slug": "other-systemic-anti-infective-effective-in-urinary-tract-infections-435",
+   "generics count": 0
+ },
+ {
+   "drug class id": 434,
+   "drug class name": "Irrigation Solution used in Urological Surgery",
+   "slug": "irrigation-solution-used-in-urological-surgery-434",
+   "generics count": 1
+ },
+ {
+   "drug class id": 656,
+   "drug class name": "Synthetic analogue of ADH",
+   "slug": "synthetic-analogue-of-adh-656",
+   "generics count": 1
+ },
+ {
+   "drug class id": 547,
+   "drug class name": "Peritoneal dialysis solution",
+   "slug": "peritoneal-dialysis-solution-547",
+   "generics count": 1
+ },
+ {
+   "drug class id": 546,
+   "drug class name": "Other genito-urinary preparations",
+   "slug": "other-genito-urinary-preparations-546",
+   "generics count": 4
+ },
+ {
+   "drug class id": 623,
+   "drug class name": "Multiple gynecological preparation",
+   "slug": "multiple-gynecological-preparation-623",
+   "generics count": 0
+ },
+ {
+   "drug class id": 431,
+   "drug class name": "Haemodialysis solutions",
+   "slug": "haemodialysis-solutions-431",
+   "generics count": 4
+ },
+ {
+   "drug class id": 622,
+   "drug class name": "Drugs used in chronic kidney dialysis",
+   "slug": "drugs-used-in-chronic-kidney-dialysis-622",
+   "generics count": 2
+ },
+ {
+   "drug class id": 430,
+   "drug class name": "Drugs for reduction of serum phosphorus in patients with ESRD",
+   "slug": "drugs-for-reduction-of-serum-phosphorus-in-patients-with-esrd-430",
+   "generics count": 2
+ },
+ {
+   "drug class id": 652,
+   "drug class name": "Selective vasopressin V2-receptor antagonist",
+   "slug": "selective-vasopressin-v2-receptor-antagonist-652",
+   "generics count": 1
+ },
+ {
+   "drug class id": 429,
+   "drug class name": "Drugs used in Vaginal and Vulval condition",
+   "slug": "drugs-used-in-vaginal-and-vulval-condition-429",
+   "generics count": 12
+ },
+ {
+   "drug class id": 428,
+   "drug class name": "Drugs used in Ano-rectal region",
+   "slug": "drugs-used-in-ano-rectal-region-428",
+   "generics count": 5
+ },
+ {
+   "drug class id": 427,
+   "drug class name": "Drugs for Erectile Dysfunction",
+   "slug": "drugs-for-erectile-dysfunction-427",
+   "generics count": 5
+ },
+ {
+   "drug class id": 426,
+   "drug class name": "Drugs acting on the Uterus",
+   "slug": "drugs-acting-on-the-uterus-426",
+   "generics count": 12
+ },
+ {
+   "drug class id": 425,
+   "drug class name": "BPH/ Urinary retention/ Urinary incontinence",
+   "slug": "bph-urinary-retention-urinary-incontinence-425",
+   "generics count": 12
+ },
+ {
+   "drug class id": 424,
+   "drug class name": "Prevention of repeated kidney stone formation",
+   "slug": "prevention-of-repeated-kidney-stone-formation-424",
+   "generics count": 2
+ },
+ {
+   "drug class id": 418,
+   "drug class name": "Phlebotonic & Vascular protecting preparation",
+   "slug": "phlebotonic-vascular-protecting-preparation-418",
+   "generics count": 2
+ },
+ {
+   "drug class id": 417,
+   "drug class name": "Compound steroidal preparations",
+   "slug": "compound-steroidal-preparations-417",
+   "generics count": 2
+ },
+ {
+   "drug class id": 545,
+   "drug class name": "Proton Pump Inhibitor",
+   "slug": "proton-pump-inhibitor-545",
+   "generics count": 6
+ },
+ {
+   "drug class id": 544,
+   "drug class name": "H2 receptor antagonist",
+   "slug": "h2-receptor-antagonist-544",
+   "generics count": 3
+ },
+ {
+   "drug class id": 543,
+   "drug class name": "Ulcer protective",
+   "slug": "ulcer-protective-543",
+   "generics count": 0
+ },
+ {
+   "drug class id": 542,
+   "drug class name": "Proton Pump Inhibitor",
+   "slug": "proton-pump-inhibitor-542",
+   "generics count": 6
+ },
+ {
+   "drug class id": 541,
+   "drug class name": "Prostaglandin analogues",
+   "slug": "prostaglandin-analogues-541",
+   "generics count": 3
+ },
+ {
+   "drug class id": 540,
+   "drug class name": "Other drugs used for peptic ulcer disease",
+   "slug": "other-drugs-used-for-peptic-ulcer-disease-540",
+   "generics count": 0
+ },
+ {
+   "drug class id": 539,
+   "drug class name": "Motility stimulants/Dopamine antagonist",
+   "slug": "motility-stimulantsdopamine-antagonist-539",
+   "generics count": 2
+ },
+ {
+   "drug class id": 538,
+   "drug class name": "H2 receptor antagonist",
+   "slug": "h2-receptor-antagonist-538",
+   "generics count": 3
+ },
+ {
+   "drug class id": 537,
+   "drug class name": "Drugs for Aphthous ulcer",
+   "slug": "drugs-for-aphthous-ulcer-537",
+   "generics count": 0
+ },
+ {
+   "drug class id": 536,
+   "drug class name": "Chelating complex",
+   "slug": "chelating-complex-536",
+   "generics count": 1
+ },
+ {
+   "drug class id": 651,
+   "drug class name": "Candida infections",
+   "slug": "candida-infections-651",
+   "generics count": 1
+ },
+ {
+   "drug class id": 534,
+   "drug class name": "Anticholinergics (antimuscarinics)/ Anti-spasmodics",
+   "slug": "anticholinergics-antimuscarinics-anti-spasmodics-534",
+   "generics count": 12
+ },
+ {
+   "drug class id": 535,
+   "drug class name": "Anticholinergics",
+   "slug": "anticholinergics-535",
+   "generics count": 6
+ },
+ {
+   "drug class id": 533,
+   "drug class name": "Anti-dyspeptic/Carminatives",
+   "slug": "anti-dyspepticcarminatives-533",
+   "generics count": 3
+ },
+ {
+   "drug class id": 532,
+   "drug class name": "Anti-cholinergic & anti-psychotic combination drugs",
+   "slug": "anti-cholinergic-anti-psychotic-combination-drugs-532",
+   "generics count": 0
+ },
+ {
+   "drug class id": 531,
+   "drug class name": "Anti H. pylori drugs",
+   "slug": "anti-h-pylori-drugs-531",
+   "generics count": 3
+ },
+ {
+   "drug class id": 530,
+   "drug class name": "Antacids",
+   "slug": "antacids-530",
+   "generics count": 6
+ },
+ {
+   "drug class id": 529,
+   "drug class name": "Proton Pump Inhibitor",
+   "slug": "proton-pump-inhibitor-529",
+   "generics count": 6
+ },
+ {
+   "drug class id": 528,
+   "drug class name": "H2 receptor antagonist",
+   "slug": "h2-receptor-antagonist-528",
+   "generics count": 3
+ },
+ {
+   "drug class id": 527,
+   "drug class name": "Antacids",
+   "slug": "antacids-527",
+   "generics count": 6
+ },
+ {
+   "drug class id": 526,
+   "drug class name": "Proton Pump Inhibitor",
+   "slug": "proton-pump-inhibitor-526",
+   "generics count": 6
+ },
+ {
+   "drug class id": 525,
+   "drug class name": "Antacids",
+   "slug": "antacids-525",
+   "generics count": 8
+ },
+ {
+   "drug class id": 524,
+   "drug class name": "Prokinetic drugs",
+   "slug": "prokinetic-drugs-524",
+   "generics count": 3
+ },
+ {
+   "drug class id": 523,
+   "drug class name": "Anti-emetic drugs",
+   "slug": "anti-emetic-drugs-523",
+   "generics count": 16
+ },
+ {
+   "drug class id": 411,
+   "drug class name": "Proton Pump Inhibitor",
+   "slug": "proton-pump-inhibitor-411",
+   "generics count": 6
+ },
+ {
+   "drug class id": 410,
+   "drug class name": "Motility Stimulants",
+   "slug": "motility-stimulants-410",
+   "generics count": 1
+ },
+ {
+   "drug class id": 409,
+   "drug class name": "H2 receptor antagonist",
+   "slug": "h2-receptor-antagonist-409",
+   "generics count": 3
+ },
+ {
+   "drug class id": 408,
+   "drug class name": "Anti-dyspeptic/Carminatives",
+   "slug": "anti-dyspepticcarminatives-408",
+   "generics count": 2
+ },
+ {
+   "drug class id": 407,
+   "drug class name": "Antacids",
+   "slug": "antacids-407",
+   "generics count": 6
+ },
+ {
+   "drug class id": 406,
+   "drug class name": "Water purifying agent",
+   "slug": "water-purifying-agent-406",
+   "generics count": 2
+ },
+ {
+   "drug class id": 405,
+   "drug class name": "Anti-motility drugs",
+   "slug": "anti-motility-drugs-405",
+   "generics count": 1
+ },
+ {
+   "drug class id": 404,
+   "drug class name": "Anti-diarrhoeal Enzyme",
+   "slug": "anti-diarrhoeal-enzyme-404",
+   "generics count": 0
+ },
+ {
+   "drug class id": 403,
+   "drug class name": "Anti-diarrhoeal Antiprotozoal",
+   "slug": "anti-diarrhoeal-antiprotozoal-403",
+   "generics count": 4
+ },
+ {
+   "drug class id": 402,
+   "drug class name": "Anti-diarrhoeal Antimicrobial drugs",
+   "slug": "anti-diarrhoeal-antimicrobial-drugs-402",
+   "generics count": 4
+ },
+ {
+   "drug class id": 401,
+   "drug class name": "Anti-diarrhoeal",
+   "slug": "anti-diarrhoeal-401",
+   "generics count": 3
+ },
+ {
+   "drug class id": 400,
+   "drug class name": "Stool softener",
+   "slug": "stool-softener-400",
+   "generics count": 1
+ },
+ {
+   "drug class id": 399,
+   "drug class name": "Stimulant purgatives",
+   "slug": "stimulant-purgatives-399",
+   "generics count": 1
+ },
+ {
+   "drug class id": 398,
+   "drug class name": "Other laxative preparations",
+   "slug": "other-laxative-preparations-398",
+   "generics count": 2
+ },
+ {
+   "drug class id": 397,
+   "drug class name": "Osmotic purgatives",
+   "slug": "osmotic-purgatives-397",
+   "generics count": 9
+ },
+ {
+   "drug class id": 396,
+   "drug class name": "Enema & bowel cleansing solution",
+   "slug": "enema-bowel-cleansing-solution-396",
+   "generics count": 3
+ },
+ {
+   "drug class id": 395,
+   "drug class name": "Combined preparation for constipation",
+   "slug": "combined-preparation-for-constipation-395",
+   "generics count": 0
+ },
+ {
+   "drug class id": 394,
+   "drug class name": "Bulk-forming laxatives",
+   "slug": "bulk-forming-laxatives-394",
+   "generics count": 5
+ },
+ {
+   "drug class id": 393,
+   "drug class name": "Antacid with laxative action",
+   "slug": "antacid-with-laxative-action-393",
+   "generics count": 3
+ },
+ {
+   "drug class id": 392,
+   "drug class name": "Abdominal gas adsorbent preparations",
+   "slug": "abdominal-gas-adsorbent-preparations-392",
+   "generics count": 0
+ },
+ {
+   "drug class id": 416,
+   "drug class name": "Ulcerative Colitis",
+   "slug": "ulcerative-colitis-416",
+   "generics count": 2
+ },
+ {
+   "drug class id": 415,
+   "drug class name": "Drugs for Irritable Bowel Syndrome",
+   "slug": "drugs-for-irritable-bowel-syndrome-415",
+   "generics count": 2
+ },
+ {
+   "drug class id": 655,
+   "drug class name": "Aminosalicylates",
+   "slug": "aminosalicylates-655",
+   "generics count": 1
+ },
+ {
+   "drug class id": 391,
+   "drug class name": "Drugs affecting exocrine secretions",
+   "slug": "drugs-affecting-exocrine-secretions-391",
+   "generics count": 2
+ },
+ {
+   "drug class id": 390,
+   "drug class name": "Digestive Enzyme",
+   "slug": "digestive-enzyme-390",
+   "generics count": 3
+ },
+ {
+   "drug class id": 389,
+   "drug class name": "Cholagogues, Cholelitholytics & Hepatic Protectors",
+   "slug": "cholagogues-cholelitholytics-hepatic-protectors-389",
+   "generics count": 2
+ },
+ {
+   "drug class id": 388,
+   "drug class name": "Bile acid sequestrants",
+   "slug": "bile-acid-sequestrants-388",
+   "generics count": 0
+ },
+ {
+   "drug class id": 387,
+   "drug class name": "Anti-gallstones drugs: Bile Acids",
+   "slug": "anti-gallstones-drugs-bile-acids-387",
+   "generics count": 1
+ },
+ {
+   "drug class id": 375,
+   "drug class name": "Preparations for Ophthalmic diagnosis",
+   "slug": "preparations-for-ophthalmic-diagnosis-375",
+   "generics count": 3
+ },
+ {
+   "drug class id": 372,
+   "drug class name": "Ophthalmic Steroid- anti allergic combined preparations",
+   "slug": "ophthalmic-steroid-anti-allergic-combined-preparations-372",
+   "generics count": 0
+ },
+ {
+   "drug class id": 371,
+   "drug class name": "Ophthalmic Steroid preparations",
+   "slug": "ophthalmic-steroid-preparations-371",
+   "generics count": 8
+ },
+ {
+   "drug class id": 374,
+   "drug class name": "Other ophthalmic preparations",
+   "slug": "other-ophthalmic-preparations-374",
+   "generics count": 8
+ },
+ {
+   "drug class id": 373,
+   "drug class name": "Ophthalmic steroid - antibiotic combined preparations",
+   "slug": "ophthalmic-steroid-antibiotic-combined-preparations-373",
+   "generics count": 12
+ },
+ {
+   "drug class id": 370,
+   "drug class name": "Ophthalmic Non-Steroid drugs",
+   "slug": "ophthalmic-non-steroid-drugs-370",
+   "generics count": 10
+ },
+ {
+   "drug class id": 369,
+   "drug class name": "Ophthalmic Non-Steroid Combined preparations",
+   "slug": "ophthalmic-non-steroid-combined-preparations-369",
+   "generics count": 1
+ },
+ {
+   "drug class id": 562,
+   "drug class name": "Ophthalmic antibacterial drugs",
+   "slug": "ophthalmic-antibacterial-drugs-562",
+   "generics count": 16
+ },
+ {
+   "drug class id": 368,
+   "drug class name": "Ophthalmic Anti-viral Products",
+   "slug": "ophthalmic-anti-viral-products-368",
+   "generics count": 4
+ },
+ {
+   "drug class id": 367,
+   "drug class name": "Ophthalmic Anti-fungal Products",
+   "slug": "ophthalmic-anti-fungal-products-367",
+   "generics count": 2
+ },
+ {
+   "drug class id": 365,
+   "drug class name": "Ophthalmic Anti-allergic preparations",
+   "slug": "ophthalmic-anti-allergic-preparations-365",
+   "generics count": 3
+ },
+ {
+   "drug class id": 366,
+   "drug class name": "Ophthalmic and Topical antibacterial products",
+   "slug": "ophthalmic-and-topical-antibacterial-products-366",
+   "generics count": 1
+ },
+ {
+   "drug class id": 364,
+   "drug class name": "Ocular perioperative drugs",
+   "slug": "ocular-perioperative-drugs-364",
+   "generics count": 2
+ },
+ {
+   "drug class id": 363,
+   "drug class name": "Mydriatic and Cycloplegic agents",
+   "slug": "mydriatic-and-cycloplegic-agents-363",
+   "generics count": 4
+ },
+ {
+   "drug class id": 362,
+   "drug class name": "Drugs for miotics and glaucoma",
+   "slug": "drugs-for-miotics-and-glaucoma-362",
+   "generics count": 17
+ },
+ {
+   "drug class id": 361,
+   "drug class name": "Drugs for lens opacification",
+   "slug": "drugs-for-lens-opacification-361",
+   "generics count": 1
+ },
+ {
+   "drug class id": 359,
+   "drug class name": "Drugs for Dry eyes",
+   "slug": "drugs-for-dry-eyes-359",
+   "generics count": 12
+ },
+ {
+   "drug class id": 360,
+   "drug class name": "Drugs for corneal oedema",
+   "slug": "drugs-for-corneal-oedema-360",
+   "generics count": 0
+ },
+ {
+   "drug class id": 358,
+   "drug class name": "Drugs for Age-Related Macular Degeneration (AMD)",
+   "slug": "drugs-for-age-related-macular-degeneration-amd-358",
+   "generics count": 2
+ },
+ {
+   "drug class id": 357,
+   "drug class name": "Antioxidant vitamins & minerals for eye",
+   "slug": "antioxidant-vitamins-minerals-for-eye-357",
+   "generics count": 1
+ },
+ {
+   "drug class id": 316,
+   "drug class name": "Nasal Steroid Preparations",
+   "slug": "nasal-steroid-preparations-316",
+   "generics count": 6
+ },
+ {
+   "drug class id": 317,
+   "drug class name": "Nasal non-steroid Preparation",
+   "slug": "nasal-non-steroid-preparation-317",
+   "generics count": 0
+ },
+ {
+   "drug class id": 614,
+   "drug class name": "Nasal Decongestants & Other Nasal Preparations",
+   "slug": "nasal-decongestants-other-nasal-preparations-614",
+   "generics count": 5
+ },
+ {
+   "drug class id": 314,
+   "drug class name": "Nasal Anti-cholinergic (Anti- muscarinic) Preparations",
+   "slug": "nasal-anti-cholinergic-anti-muscarinic-preparations-314",
+   "generics count": 0
+ },
+ {
+   "drug class id": 315,
+   "drug class name": "Nasal Anti-histamine preparations",
+   "slug": "nasal-anti-histamine-preparations-315",
+   "generics count": 4
+ },
+ {
+   "drug class id": 313,
+   "drug class name": "Mast Cell Stabiliser",
+   "slug": "mast-cell-stabiliser-313",
+   "generics count": 3
+ },
+ {
+   "drug class id": 312,
+   "drug class name": "Decongestant",
+   "slug": "decongestant-312",
+   "generics count": 1
+ },
+ {
+   "drug class id": 311,
+   "drug class name": "Oral preparations",
+   "slug": "oral-preparations-311",
+   "generics count": 5
+ },
+ {
+   "drug class id": 613,
+   "drug class name": "Irrigation during various surgical procedures",
+   "slug": "irrigation-during-various-surgical-procedures-613",
+   "generics count": 1
+ },
+ {
+   "drug class id": 624,
+   "drug class name": "Anticavity Mouthwash",
+   "slug": "anticavity-mouthwash-624",
+   "generics count": 1
+ },
+ {
+   "drug class id": 654,
+   "drug class name": "Cerumenolytic",
+   "slug": "cerumenolytic-654",
+   "generics count": 1
+ },
+ {
+   "drug class id": 310,
+   "drug class name": "Aural steroid & antibiotic combined preparations",
+   "slug": "aural-steroid-antibiotic-combined-preparations-310",
+   "generics count": 4
+ },
+ {
+   "drug class id": 309,
+   "drug class name": "Aural Anti-fungal preparations",
+   "slug": "aural-anti-fungal-preparations-309",
+   "generics count": 3
+ },
+ {
+   "drug class id": 308,
+   "drug class name": "Aural Anti-bacterial preparations",
+   "slug": "aural-anti-bacterial-preparations-308",
+   "generics count": 5
+ },
+ {
+   "drug class id": 650,
+   "drug class name": "Anti-fungal or anti-bacterial ear drops",
+   "slug": "anti-fungal-or-anti-bacterial-ear-drops-650",
+   "generics count": 2
+ },
+ {
+   "drug class id": 304,
+   "drug class name": "Plasma expanders",
+   "slug": "plasma-expanders-304",
+   "generics count": 4
+ },
+ {
+   "drug class id": 303,
+   "drug class name": "Oral electrolytes preparations",
+   "slug": "oral-electrolytes-preparations-303",
+   "generics count": 6
+ },
+ {
+   "drug class id": 302,
+   "drug class name": "Intravenous fluid preparations",
+   "slug": "intravenous-fluid-preparations-302",
+   "generics count": 8
+ },
+ {
+   "drug class id": 621,
+   "drug class name": "Electrolytes preparations",
+   "slug": "electrolytes-preparations-621",
+   "generics count": 3
+ },
+ {
+   "drug class id": 301,
+   "drug class name": "Vitamin-K Preparations",
+   "slug": "vitamin-k-preparations-301",
+   "generics count": 2
+ },
+ {
+   "drug class id": 300,
+   "drug class name": "Vitamin-E Preparations",
+   "slug": "vitamin-e-preparations-300",
+   "generics count": 1
+ },
+ {
+   "drug class id": 299,
+   "drug class name": "Vitamin-D preparations",
+   "slug": "vitamin-d-preparations-299",
+   "generics count": 3
+ },
+ {
+   "drug class id": 298,
+   "drug class name": "Vitamin-C Preparations",
+   "slug": "vitamin-c-preparations-298",
+   "generics count": 1
+ },
+ {
+   "drug class id": 297,
+   "drug class name": "Vitamin-B preparations",
+   "slug": "vitamin-b-preparations-297",
+   "generics count": 7
+ },
+ {
+   "drug class id": 296,
+   "drug class name": "Vitamin-A preparations",
+   "slug": "vitamin-a-preparations-296",
+   "generics count": 1
+ },
+ {
+   "drug class id": 560,
+   "drug class name": "Supplements & adjuvant therapy",
+   "slug": "supplements-adjuvant-therapy-560",
+   "generics count": 4
+ },
+ {
+   "drug class id": 295,
+   "drug class name": "Parenteral nutritional preparations",
+   "slug": "parenteral-nutritional-preparations-295",
+   "generics count": 9
+ },
+ {
+   "drug class id": 646,
+   "drug class name": "Oral nutritional preparations",
+   "slug": "oral-nutritional-preparations-646",
+   "generics count": 7
+ },
+ {
+   "drug class id": 520,
+   "drug class name": "Multi-vitamin & Multi-mineral combined preparations",
+   "slug": "multi-vitamin-multi-mineral-combined-preparations-520",
+   "generics count": 12
+ },
+ {
+   "drug class id": 290,
+   "drug class name": "Specific mineral preparations",
+   "slug": "specific-mineral-preparations-290",
+   "generics count": 13
+ },
+ {
+   "drug class id": 289,
+   "drug class name": "Specific mineral & vitamin combined preparations",
+   "slug": "specific-mineral-vitamin-combined-preparations-289",
+   "generics count": 15
+ },
+ {
+   "drug class id": 647,
+   "drug class name": "Hyperkalaemia Products",
+   "slug": "hyperkalaemia-products-647",
+   "generics count": 1
+ },
+ {
+   "drug class id": 288,
+   "drug class name": "Specific combined vitamin preparations",
+   "slug": "specific-combined-vitamin-preparations-288",
+   "generics count": 14
+ },
+ {
+   "drug class id": 286,
+   "drug class name": "Anti-oxidant Multivitamin preparations",
+   "slug": "anti-oxidant-multivitamin-preparations-286",
+   "generics count": 2
+ },
+ {
+   "drug class id": 285,
+   "drug class name": "Anti-oxidant Multivitamin Multimineral preparations",
+   "slug": "anti-oxidant-multivitamin-multimineral-preparations-285",
+   "generics count": 2
+ },
+ {
+   "drug class id": 519,
+   "drug class name": "Drugs for Osteoarthritis",
+   "slug": "drugs-for-osteoarthritis-519",
+   "generics count": 27
+ },
+ {
+   "drug class id": 518,
+   "drug class name": "Corticosteroid",
+   "slug": "corticosteroid-518",
+   "generics count": 10
+ },
+ {
+   "drug class id": 276,
+   "drug class name": "Stimulation of Cartilage formation",
+   "slug": "stimulation-of-cartilage-formation-276",
+   "generics count": 3
+ },
+ {
+   "drug class id": 274,
+   "drug class name": "Vitamin in bone formation",
+   "slug": "vitamin-in-bone-formation-274",
+   "generics count": 3
+ },
+ {
+   "drug class id": 272,
+   "drug class name": "Minerals in bone formation",
+   "slug": "minerals-in-bone-formation-272",
+   "generics count": 6
+ },
+ {
+   "drug class id": 273,
+   "drug class name": "Inhibiting bone resorption",
+   "slug": "inhibiting-bone-resorption-273",
+   "generics count": 2
+ },
+ {
+   "drug class id": 271,
+   "drug class name": "Hormone in bone formation by stimulation",
+   "slug": "hormone-in-bone-formation-by-stimulation-271",
+   "generics count": 2
+ },
+ {
+   "drug class id": 270,
+   "drug class name": "Hormone in bone formation by Inhibiting bone resorption",
+   "slug": "hormone-in-bone-formation-by-inhibiting-bone-resorption-270",
+   "generics count": 1
+ },
+ {
+   "drug class id": 269,
+   "drug class name": "Combined preparations: Inhibiting bone resorption",
+   "slug": "combined-preparations-inhibiting-bone-resorption-269",
+   "generics count": 1
+ },
+ {
+   "drug class id": 268,
+   "drug class name": "Bisphosphonate preparations",
+   "slug": "bisphosphonate-preparations-268",
+   "generics count": 7
+ },
+ {
+   "drug class id": 263,
+   "drug class name": "Drugs for Haemolytic Hypoplastic & Renal Anemia",
+   "slug": "drugs-for-haemolytic-hypoplastic-renal-anemia-263",
+   "generics count": 6
+ },
+ {
+   "drug class id": 264,
+   "drug class name": "Drugs for Megaloblastic Anemia",
+   "slug": "drugs-for-megaloblastic-anemia-264",
+   "generics count": 3
+ },
+ {
+   "drug class id": 262,
+   "drug class name": "Parenteral Iron Preparations",
+   "slug": "parenteral-iron-preparations-262",
+   "generics count": 4
+ },
+ {
+   "drug class id": 261,
+   "drug class name": "Oral Iron preparations",
+   "slug": "oral-iron-preparations-261",
+   "generics count": 6
+ },
+ {
+   "drug class id": 260,
+   "drug class name": "Iron, Vitamin & Mineral Combined preparation",
+   "slug": "iron-vitamin-mineral-combined-preparation-260",
+   "generics count": 8
+ },
+ {
+   "drug class id": 259,
+   "drug class name": "Iron & Vitamin Combined preparations",
+   "slug": "iron-vitamin-combined-preparations-259",
+   "generics count": 8
+ },
+ {
+   "drug class id": 255,
+   "drug class name": "Triamcinolone & Combined preparations",
+   "slug": "triamcinolone-combined-preparations-255",
+   "generics count": 4
+ },
+ {
+   "drug class id": 254,
+   "drug class name": "Other Topical corticosteroids",
+   "slug": "other-topical-corticosteroids-254",
+   "generics count": 14
+ },
+ {
+   "drug class id": 253,
+   "drug class name": "Hydrocortisone & Combined preparations",
+   "slug": "hydrocortisone-combined-preparations-253",
+   "generics count": 6
+ },
+ {
+   "drug class id": 252,
+   "drug class name": "Fluticasone & combined preparations topical",
+   "slug": "fluticasone-combined-preparations-topical-252",
+   "generics count": 1
+ },
+ {
+   "drug class id": 251,
+   "drug class name": "Fluocinolone & Combined Preparations",
+   "slug": "fluocinolone-combined-preparations-251",
+   "generics count": 6
+ },
+ {
+   "drug class id": 250,
+   "drug class name": "Clobetasol / Clobetasone & Combined Preparations",
+   "slug": "clobetasol-clobetasone-combined-preparations-250",
+   "generics count": 4
+ },
+ {
+   "drug class id": 249,
+   "drug class name": "Betamethasone & Combined preparations",
+   "slug": "betamethasone-combined-preparations-249",
+   "generics count": 4
+ },
+ {
+   "drug class id": 248,
+   "drug class name": "Beclomethasone & Combined Preparations",
+   "slug": "beclomethasone-combined-preparations-248",
+   "generics count": 0
+ },
+ {
+   "drug class id": 247,
+   "drug class name": "Topical Local Anesthetics",
+   "slug": "topical-local-anesthetics-247",
+   "generics count": 3
+ },
+ {
+   "drug class id": 246,
+   "drug class name": "Topical Antihistamines",
+   "slug": "topical-antihistamines-246",
+   "generics count": 1
+ },
+ {
+   "drug class id": 245,
+   "drug class name": "Local Antipruritic",
+   "slug": "local-antipruritic-245",
+   "generics count": 9
+ },
+ {
+   "drug class id": 244,
+   "drug class name": "Topical Antiviral preparations",
+   "slug": "topical-antiviral-preparations-244",
+   "generics count": 1
+ },
+ {
+   "drug class id": 243,
+   "drug class name": "Topical Antifungal preparations",
+   "slug": "topical-antifungal-preparations-243",
+   "generics count": 19
+ },
+ {
+   "drug class id": 242,
+   "drug class name": "Topical Antibiotic preparations",
+   "slug": "topical-antibiotic-preparations-242",
+   "generics count": 10
+ },
+ {
+   "drug class id": 241,
+   "drug class name": "Parasiticidal preparations",
+   "slug": "parasiticidal-preparations-241",
+   "generics count": 5
+ },
+ {
+   "drug class id": 240,
+   "drug class name": "Other Antifungal preparations",
+   "slug": "other-antifungal-preparations-240",
+   "generics count": 6
+ },
+ {
+   "drug class id": 239,
+   "drug class name": "Drugs used in diaper rash",
+   "slug": "drugs-used-in-diaper-rash-239",
+   "generics count": 2
+ },
+ {
+   "drug class id": 238,
+   "drug class name": "Anti-infective & Anesthetic combined preparations",
+   "slug": "anti-infective-anesthetic-combined-preparations-238",
+   "generics count": 1
+ },
+ {
+   "drug class id": 237,
+   "drug class name": "Other scalp preparations",
+   "slug": "other-scalp-preparations-237",
+   "generics count": 3
+ },
+ {
+   "drug class id": 236,
+   "drug class name": "Medicated Shampoos",
+   "slug": "medicated-shampoos-236",
+   "generics count": 0
+ },
+ {
+   "drug class id": 235,
+   "drug class name": "Sunblock Preparation",
+   "slug": "sunblock-preparation-235",
+   "generics count": 7
+ },
+ {
+   "drug class id": 233,
+   "drug class name": "Combined preparations",
+   "slug": "combined-preparations-233",
+   "generics count": 1
+ },
+ {
+   "drug class id": 234,
+   "drug class name": "Topical salicylic preparation",
+   "slug": "topical-salicylic-preparation-234",
+   "generics count": 1
+ },
+ {
+   "drug class id": 232,
+   "drug class name": "Anti neoplastic preparations",
+   "slug": "anti-neoplastic-preparations-232",
+   "generics count": 5
+ },
+ {
+   "drug class id": 230,
+   "drug class name": "Methoxsalen preparation",
+   "slug": "methoxsalen-preparation-230",
+   "generics count": 1
+ },
+ {
+   "drug class id": 229,
+   "drug class name": "Topical urea preparations",
+   "slug": "topical-urea-preparations-229",
+   "generics count": 2
+ },
+ {
+   "drug class id": 228,
+   "drug class name": "Topical retinoid and related preparations",
+   "slug": "topical-retinoid-and-related-preparations-228",
+   "generics count": 4
+ },
+ {
+   "drug class id": 231,
+   "drug class name": "Hydroquinone Preparations",
+   "slug": "hydroquinone-preparations-231",
+   "generics count": 2
+ },
+ {
+   "drug class id": 227,
+   "drug class name": "Topical antibiotics for Acne",
+   "slug": "topical-antibiotics-for-acne-227",
+   "generics count": 2
+ },
+ {
+   "drug class id": 226,
+   "drug class name": "Topical antibiotic & retinoid preparations",
+   "slug": "topical-antibiotic-retinoid-preparations-226",
+   "generics count": 1
+ },
+ {
+   "drug class id": 225,
+   "drug class name": "Oral retinoids for Acne",
+   "slug": "oral-retinoids-for-acne-225",
+   "generics count": 1
+ },
+ {
+   "drug class id": 224,
+   "drug class name": "Oral Hormonal preparations for Acne",
+   "slug": "oral-hormonal-preparations-for-acne-224",
+   "generics count": 1
+ },
+ {
+   "drug class id": 223,
+   "drug class name": "Benzoyl peroxide, Azelaic acid & other preparations",
+   "slug": "benzoyl-peroxide-azelaic-acid-other-preparations-223",
+   "generics count": 2
+ },
+ {
+   "drug class id": 561,
+   "drug class name": "Acne treatment preparations",
+   "slug": "acne-treatment-preparations-561",
+   "generics count": 4
+ },
+ {
+   "drug class id": 220,
+   "drug class name": "Iodine compounds (Anti-septic Preparations)",
+   "slug": "iodine-compounds-anti-septic-preparations-220",
+   "generics count": 1
+ },
+ {
+   "drug class id": 219,
+   "drug class name": "Crystal violet/ Gentian violet preparations",
+   "slug": "crystal-violet-gentian-violet-preparations-219",
+   "generics count": 1
+ },
+ {
+   "drug class id": 222,
+   "drug class name": "Dressing products for wounds/burns/ulcers",
+   "slug": "dressing-products-for-woundsburnsulcers-222",
+   "generics count": 1
+ },
+ {
+   "drug class id": 218,
+   "drug class name": "Chlorhexidine & Chloroxylenol preparations",
+   "slug": "chlorhexidine-chloroxylenol-preparations-218",
+   "generics count": 6
+ },
+ {
+   "drug class id": 217,
+   "drug class name": "Bleaching and Disinfectants",
+   "slug": "bleaching-and-disinfectants-217",
+   "generics count": 6
+ },
+ {
+   "drug class id": 216,
+   "drug class name": "Zinc & Combined preparations",
+   "slug": "zinc-combined-preparations-216",
+   "generics count": 0
+ },
+ {
+   "drug class id": 215,
+   "drug class name": "Topical Vitamin D & related preparations",
+   "slug": "topical-vitamin-d-related-preparations-215",
+   "generics count": 1
+ },
+ {
+   "drug class id": 214,
+   "drug class name": "Topical retinoid and related preparations",
+   "slug": "topical-retinoid-and-related-preparations-214",
+   "generics count": 7
+ },
+ {
+   "drug class id": 213,
+   "drug class name": "Oral Retinoid preparations",
+   "slug": "oral-retinoid-preparations-213",
+   "generics count": 2
+ },
+ {
+   "drug class id": 212,
+   "drug class name": "Emollients & combined preparations",
+   "slug": "emollients-combined-preparations-212",
+   "generics count": 8
+ },
+ {
+   "drug class id": 211,
+   "drug class name": "Drugs affecting the immune response",
+   "slug": "drugs-affecting-the-immune-response-211",
+   "generics count": 3
+ },
+ {
+   "drug class id": 210,
+   "drug class name": "Dithranol & combined preparations",
+   "slug": "dithranol-combined-preparations-210",
+   "generics count": 1
+ },
+ {
+   "drug class id": 209,
+   "drug class name": "Coal-tar preparations",
+   "slug": "coal-tar-preparations-209",
+   "generics count": 3
+ },
+ {
+   "drug class id": 208,
+   "drug class name": "Topical Analgesics",
+   "slug": "topical-analgesics-208",
+   "generics count": 9
+ },
+ {
+   "drug class id": 558,
+   "drug class name": "Miscellaneous topical agents",
+   "slug": "miscellaneous-topical-agents-558",
+   "generics count": 19
+ },
+ {
+   "drug class id": 628,
+   "drug class name": "Hair Growth Inhibitor",
+   "slug": "hair-growth-inhibitor-628",
+   "generics count": 1
+ },
+ {
+   "drug class id": 517,
+   "drug class name": "Statins",
+   "slug": "statins-517",
+   "generics count": 5
+ },
+ {
+   "drug class id": 516,
+   "drug class name": "Cerebral vasodilator & Neurosensory oxygenator drugs",
+   "slug": "cerebral-vasodilator-neurosensory-oxygenator-drugs-516",
+   "generics count": 2
+ },
+ {
+   "drug class id": 515,
+   "drug class name": "Calcium-channel blockers",
+   "slug": "calcium-channel-blockers-515",
+   "generics count": 11
+ },
+ {
+   "drug class id": 630,
+   "drug class name": "Antiarrhythmic Therapy",
+   "slug": "antiarrhythmic-therapy-630",
+   "generics count": 0
+ },
+ {
+   "drug class id": 514,
+   "drug class name": "Anti-platelet drugs",
+   "slug": "anti-platelet-drugs-514",
+   "generics count": 14
+ },
+ {
+   "drug class id": 513,
+   "drug class name": "Anti-coagulants",
+   "slug": "anti-coagulants-513",
+   "generics count": 3
+ },
+ {
+   "drug class id": 512,
+   "drug class name": "Angiotensin-ll receptor blocker",
+   "slug": "angiotensin-ll-receptor-blocker-512",
+   "generics count": 7
+ },
+ {
+   "drug class id": 510,
+   "drug class name": "Calcium-channel blockers",
+   "slug": "calcium-channel-blockers-510",
+   "generics count": 11
+ },
+ {
+   "drug class id": 509,
+   "drug class name": "Angiotensin-ll receptor blocker",
+   "slug": "angiotensin-ll-receptor-blocker-509",
+   "generics count": 7
+ },
+ {
+   "drug class id": 190,
+   "drug class name": "Tricyclic Anti-depressant",
+   "slug": "tricyclic-anti-depressant-190",
+   "generics count": 5
+ },
+ {
+   "drug class id": 189,
+   "drug class name": "Miscellaneous prophylactic migraine preparations",
+   "slug": "miscellaneous-prophylactic-migraine-preparations-189",
+   "generics count": 1
+ },
+ {
+   "drug class id": 188,
+   "drug class name": "Beta-blockers",
+   "slug": "beta-blockers-188",
+   "generics count": 6
+ },
+ {
+   "drug class id": 187,
+   "drug class name": "Anti-histamine Preparations",
+   "slug": "anti-histamine-preparations-187",
+   "generics count": 2
+ },
+ {
+   "drug class id": 162,
+   "drug class name": "Non-Benzodiazepine hypnotics",
+   "slug": "non-benzodiazepine-hypnotics-162",
+   "generics count": 0
+ },
+ {
+   "drug class id": 161,
+   "drug class name": "Miscellaneous sedatives & hypnotics",
+   "slug": "miscellaneous-sedatives-hypnotics-161",
+   "generics count": 9
+ },
+ {
+   "drug class id": 160,
+   "drug class name": "Benzodiazepine sedatives",
+   "slug": "benzodiazepine-sedatives-160",
+   "generics count": 7
+ },
+ {
+   "drug class id": 159,
+   "drug class name": "Benzodiazepine hypnotics",
+   "slug": "benzodiazepine-hypnotics-159",
+   "generics count": 8
+ },
+ {
+   "drug class id": 158,
+   "drug class name": "Barbiturates",
+   "slug": "barbiturates-158",
+   "generics count": 1
+ },
+ {
+   "drug class id": 186,
+   "drug class name": "Piperidinyl-benzisoxazole derivative",
+   "slug": "piperidinyl-benzisoxazole-derivative-186",
+   "generics count": 1
+ },
+ {
+   "drug class id": 185,
+   "drug class name": "Phenothiazine related drugs",
+   "slug": "phenothiazine-related-drugs-185",
+   "generics count": 5
+ },
+ {
+   "drug class id": 184,
+   "drug class name": "Phenothiazine drugs",
+   "slug": "phenothiazine-drugs-184",
+   "generics count": 4
+ },
+ {
+   "drug class id": 183,
+   "drug class name": "Butyrophenone drugs",
+   "slug": "butyrophenone-drugs-183",
+   "generics count": 1
+ },
+ {
+   "drug class id": 182,
+   "drug class name": "Atypical neuroleptic drugs",
+   "slug": "atypical-neuroleptic-drugs-182",
+   "generics count": 12
+ },
+ {
+   "drug class id": 181,
+   "drug class name": "Anti-manic drugs",
+   "slug": "anti-manic-drugs-181",
+   "generics count": 1
+ },
+ {
+   "drug class id": 631,
+   "drug class name": "Neurodegenerative Disease Drugs / Neuromuscular Disorder Drugs",
+   "slug": "neurodegenerative-disease-drugs-neuromuscular-disorder-drugs-631",
+   "generics count": 1
+ },
+ {
+   "drug class id": 180,
+   "drug class name": "Drugs used in substance dependence",
+   "slug": "drugs-used-in-substance-dependence-180",
+   "generics count": 1
+ },
+ {
+   "drug class id": 179,
+   "drug class name": "CNS stimulant drugs",
+   "slug": "cns-stimulant-drugs-179",
+   "generics count": 4
+ },
+ {
+   "drug class id": 178,
+   "drug class name": "Appetite suppressant drugs/Anti-obesity drugs",
+   "slug": "appetite-suppressant-drugsanti-obesity-drugs-178",
+   "generics count": 1
+ },
+ {
+   "drug class id": 177,
+   "drug class name": "Antidote preparations",
+   "slug": "antidote-preparations-177",
+   "generics count": 12
+ },
+ {
+   "drug class id": 176,
+   "drug class name": "Drugs used in tremor, tics & related disorder",
+   "slug": "drugs-used-in-tremor-tics-related-disorder-176",
+   "generics count": 2
+ },
+ {
+   "drug class id": 175,
+   "drug class name": "Drugs for Dementia",
+   "slug": "drugs-for-dementia-175",
+   "generics count": 2
+ },
+ {
+   "drug class id": 174,
+   "drug class name": "Antiparkinson drugs",
+   "slug": "antiparkinson-drugs-174",
+   "generics count": 14
+ },
+ {
+   "drug class id": 173,
+   "drug class name": "Anti-Alzheimer drugs",
+   "slug": "anti-alzheimer-drugs-173",
+   "generics count": 1
+ },
+ {
+   "drug class id": 172,
+   "drug class name": "Drugs used in meniere's diseases",
+   "slug": "drugs-used-in-menieres-diseases-172",
+   "generics count": 2
+ },
+ {
+   "drug class id": 171,
+   "drug class name": "Anti-emetic drugs",
+   "slug": "anti-emetic-drugs-171",
+   "generics count": 15
+ },
+ {
+   "drug class id": 170,
+   "drug class name": "Anti vertigo drugs",
+   "slug": "anti-vertigo-drugs-170",
+   "generics count": 3
+ },
+ {
+   "drug class id": 169,
+   "drug class name": "Primary anti-epileptic drugs",
+   "slug": "primary-anti-epileptic-drugs-169",
+   "generics count": 6
+ },
+ {
+   "drug class id": 168,
+   "drug class name": "Adjunct anti-epileptic drugs",
+   "slug": "adjunct-anti-epileptic-drugs-168",
+   "generics count": 11
+ },
+ {
+   "drug class id": 167,
+   "drug class name": "Tricyclic & related anti-depressant drugs",
+   "slug": "tricyclic-related-anti-depressant-drugs-167",
+   "generics count": 5
+ },
+ {
+   "drug class id": 165,
+   "drug class name": "SSRIs & related anti-depressant drugs",
+   "slug": "ssris-related-anti-depressant-drugs-165",
+   "generics count": 6
+ },
+ {
+   "drug class id": 166,
+   "drug class name": "Serotonin-norepinephrine reuptake inhibitor (SNRI)",
+   "slug": "serotonin-norepinephrine-reuptake-inhibitor-snri-166",
+   "generics count": 6
+ },
+ {
+   "drug class id": 164,
+   "drug class name": "Combined anxiolytics & anti-depressant drugs",
+   "slug": "combined-anxiolytics-anti-depressant-drugs-164",
+   "generics count": 3
+ },
+ {
+   "drug class id": 163,
+   "drug class name": "Atypical anti-depressant drugs",
+   "slug": "atypical-anti-depressant-drugs-163",
+   "generics count": 5
+ },
+ {
+   "drug class id": 157,
+   "drug class name": "Other drugs for migraine",
+   "slug": "other-drugs-for-migraine-157",
+   "generics count": 3
+ },
+ {
+   "drug class id": 156,
+   "drug class name": "Ergot Alkaloids",
+   "slug": "ergot-alkaloids-156",
+   "generics count": 1
+ },
+ {
+   "drug class id": 155,
+   "drug class name": "5-HT Agonists",
+   "slug": "5-ht-agonists-155",
+   "generics count": 5
+ },
+ {
+   "drug class id": 139,
+   "drug class name": "Peripheral Vasodilator drugs: Intermittent Claudication",
+   "slug": "peripheral-vasodilator-drugs-intermittent-claudication-139",
+   "generics count": 2
+ },
+ {
+   "drug class id": 138,
+   "drug class name": "Drugs for muscular energy metabolism",
+   "slug": "drugs-for-muscular-energy-metabolism-138",
+   "generics count": 1
+ },
+ {
+   "drug class id": 137,
+   "drug class name": "Cerebral vasodilator & Neurosensory oxygenator drugs",
+   "slug": "cerebral-vasodilator-neurosensory-oxygenator-drugs-137",
+   "generics count": 2
+ },
+ {
+   "drug class id": 136,
+   "drug class name": "Statins",
+   "slug": "statins-136",
+   "generics count": 5
+ },
+ {
+   "drug class id": 135,
+   "drug class name": "Other lipid regulating drugs",
+   "slug": "other-lipid-regulating-drugs-135",
+   "generics count": 2
+ },
+ {
+   "drug class id": 134,
+   "drug class name": "Nicotinic acid group",
+   "slug": "nicotinic-acid-group-134",
+   "generics count": 1
+ },
+ {
+   "drug class id": 133,
+   "drug class name": "Fibrates",
+   "slug": "fibrates-133",
+   "generics count": 1
+ },
+ {
+   "drug class id": 132,
+   "drug class name": "Ezetimibe",
+   "slug": "ezetimibe-132",
+   "generics count": 1
+ },
+ {
+   "drug class id": 616,
+   "drug class name": "Dyslipidaemic Agents",
+   "slug": "dyslipidaemic-agents-616",
+   "generics count": 1
+ },
+ {
+   "drug class id": 658,
+   "drug class name": "Adenosine triphosphate-citrate lyase (ACL) inhibitor",
+   "slug": "adenosine-triphosphate-citrate-lyase-acl-inhibitor-658",
+   "generics count": 0
+ },
+ {
+   "drug class id": 508,
+   "drug class name": "Vasodilator antihypertensive drugs",
+   "slug": "vasodilator-antihypertensive-drugs-508",
+   "generics count": 1
+ },
+ {
+   "drug class id": 507,
+   "drug class name": "Thiazide diuretics & related drugs",
+   "slug": "thiazide-diuretics-related-drugs-507",
+   "generics count": 4
+ },
+ {
+   "drug class id": 505,
+   "drug class name": "Potassium-sparing diuretics & Aldosterone antagonists",
+   "slug": "potassium-sparing-diuretics-aldosterone-antagonists-505",
+   "generics count": 3
+ },
+ {
+   "drug class id": 504,
+   "drug class name": "Osmotic diuretics",
+   "slug": "osmotic-diuretics-504",
+   "generics count": 1
+ },
+ {
+   "drug class id": 506,
+   "drug class name": "Potassium-sparing diuretics",
+   "slug": "potassium-sparing-diuretics-506",
+   "generics count": 3
+ },
+ {
+   "drug class id": 503,
+   "drug class name": "Loop diuretics",
+   "slug": "loop-diuretics-503",
+   "generics count": 4
+ },
+ {
+   "drug class id": 502,
+   "drug class name": "Endothelin receptor antagonist",
+   "slug": "endothelin-receptor-antagonist-502",
+   "generics count": 2
+ },
+ {
+   "drug class id": 501,
+   "drug class name": "Direct Renin Inhibitors",
+   "slug": "direct-renin-inhibitors-501",
+   "generics count": 1
+ },
+ {
+   "drug class id": 500,
+   "drug class name": "Combined antihypertensive preparations",
+   "slug": "combined-antihypertensive-preparations-500",
+   "generics count": 20
+ },
+ {
+   "drug class id": 499,
+   "drug class name": "Centrally acting antihypertensive drugs (central sympatholytic)",
+   "slug": "centrally-acting-antihypertensive-drugs-central-sympatholytic-499",
+   "generics count": 2
+ },
+ {
+   "drug class id": 498,
+   "drug class name": "Carbonic anhydrase inhibitor",
+   "slug": "carbonic-anhydrase-inhibitor-498",
+   "generics count": 1
+ },
+ {
+   "drug class id": 497,
+   "drug class name": "Calcium-channel blockers",
+   "slug": "calcium-channel-blockers-497",
+   "generics count": 11
+ },
+ {
+   "drug class id": 496,
+   "drug class name": "Beta-adrenoceptor blocking drugs",
+   "slug": "beta-adrenoceptor-blocking-drugs-496",
+   "generics count": 7
+ },
+ {
+   "drug class id": 559,
+   "drug class name": "Anti-hypertensive",
+   "slug": "anti-hypertensive-559",
+   "generics count": 5
+ },
+ {
+   "drug class id": 494,
+   "drug class name": "Angiotensin-ll receptor blocker",
+   "slug": "angiotensin-ll-receptor-blocker-494",
+   "generics count": 7
+ },
+ {
+   "drug class id": 495,
+   "drug class name": "Angiotensin-converting enzyme (ACE) inhibitors",
+   "slug": "angiotensin-converting-enzyme-ace-inhibitors-495",
+   "generics count": 5
+ },
+ {
+   "drug class id": 493,
+   "drug class name": "Alpha and Beta-adrenergic agonist",
+   "slug": "alpha-and-beta-adrenergic-agonist-493",
+   "generics count": 1
+ },
+ {
+   "drug class id": 126,
+   "drug class name": "Alpha and Beta-adrenergic agonist",
+   "slug": "alpha-and-beta-adrenergic-agonist-126",
+   "generics count": 0
+ },
+ {
+   "drug class id": 125,
+   "drug class name": "Alpha adrenoceptor blocking drugs",
+   "slug": "alpha-adrenoceptor-blocking-drugs-125",
+   "generics count": 5
+ },
+ {
+   "drug class id": 492,
+   "drug class name": "Alpha adrenoceptor blocking drugs",
+   "slug": "alpha-adrenoceptor-blocking-drugs-492",
+   "generics count": 5
+ },
+ {
+   "drug class id": 124,
+   "drug class name": "Vasoconstrictor/Venotonic",
+   "slug": "vasoconstrictorvenotonic-124",
+   "generics count": 2
+ },
+ {
+   "drug class id": 123,
+   "drug class name": "Thiazide diuretics & related drugs",
+   "slug": "thiazide-diuretics-related-drugs-123",
+   "generics count": 4
+ },
+ {
+   "drug class id": 661,
+   "drug class name": "Stimulator of soluble guanylate cyclase",
+   "slug": "stimulator-of-soluble-guanylate-cyclase-661",
+   "generics count": 1
+ },
+ {
+   "drug class id": 122,
+   "drug class name": "Potassium-sparing diuretics",
+   "slug": "potassium-sparing-diuretics-122",
+   "generics count": 3
+ },
+ {
+   "drug class id": 121,
+   "drug class name": "Positive Inotropic drugs",
+   "slug": "positive-inotropic-drugs-121",
+   "generics count": 1
+ },
+ {
+   "drug class id": 120,
+   "drug class name": "Loop diuretics",
+   "slug": "loop-diuretics-120",
+   "generics count": 4
+ },
+ {
+   "drug class id": 119,
+   "drug class name": "Inotropic-sympathomimetics",
+   "slug": "inotropic-sympathomimetics-119",
+   "generics count": 2
+ },
+ {
+   "drug class id": 117,
+   "drug class name": "Angiotensin-ll receptor blocker",
+   "slug": "angiotensin-ll-receptor-blocker-117",
+   "generics count": 7
+ },
+ {
+   "drug class id": 118,
+   "drug class name": "Angiotensin-converting enzyme (ACE) inhibitors",
+   "slug": "angiotensin-converting-enzyme-ace-inhibitors-118",
+   "generics count": 5
+ },
+ {
+   "drug class id": 112,
+   "drug class name": "Potassium channel blockers",
+   "slug": "potassium-channel-blockers-112",
+   "generics count": 1
+ },
+ {
+   "drug class id": 116,
+   "drug class name": "Paroxysmal supraventricular tachycardia (PSVT)",
+   "slug": "paroxysmal-supraventricular-tachycardia-psvt-116",
+   "generics count": 1
+ },
+ {
+   "drug class id": 115,
+   "drug class name": "Membrane stabilizing agent (Sodium channel blockers)",
+   "slug": "membrane-stabilizing-agent-sodium-channel-blockers-115",
+   "generics count": 2
+ },
+ {
+   "drug class id": 114,
+   "drug class name": "Calcium-channel blockers",
+   "slug": "calcium-channel-blockers-114",
+   "generics count": 11
+ },
+ {
+   "drug class id": 113,
+   "drug class name": "Anti adrenergic agent (Beta blockers)",
+   "slug": "anti-adrenergic-agent-beta-blockers-113",
+   "generics count": 3
+ },
+ {
+   "drug class id": 111,
+   "drug class name": "Potassium-channel activator",
+   "slug": "potassium-channel-activator-111",
+   "generics count": 1
+ },
+ {
+   "drug class id": 110,
+   "drug class name": "Other Anti-anginal & Anti-ischaemic drugs",
+   "slug": "other-anti-anginal-anti-ischaemic-drugs-110",
+   "generics count": 8
+ },
+ {
+   "drug class id": 109,
+   "drug class name": "Nitrates: Coronary vasodilators",
+   "slug": "nitrates-coronary-vasodilators-109",
+   "generics count": 5
+ },
+ {
+   "drug class id": 108,
+   "drug class name": "Calcium-channel blockers",
+   "slug": "calcium-channel-blockers-108",
+   "generics count": 11
+ },
+ {
+   "drug class id": 107,
+   "drug class name": "Anti-anginal & lipid lowering drugs",
+   "slug": "anti-anginal-lipid-lowering-drugs-107",
+   "generics count": 1
+ },
+ {
+   "drug class id": 106,
+   "drug class name": "Haemostatic drugs",
+   "slug": "haemostatic-drugs-106",
+   "generics count": 3
+ },
+ {
+   "drug class id": 105,
+   "drug class name": "Antihaemophilic factor",
+   "slug": "antihaemophilic-factor-105",
+   "generics count": 1
+ },
+ {
+   "drug class id": 104,
+   "drug class name": "Anti-platelet drugs",
+   "slug": "anti-platelet-drugs-104",
+   "generics count": 14
+ },
+ {
+   "drug class id": 103,
+   "drug class name": "Anti-fibrinolytic drugs",
+   "slug": "anti-fibrinolytic-drugs-103",
+   "generics count": 4
+ },
+ {
+   "drug class id": 102,
+   "drug class name": "Parenteral anti-coagulants",
+   "slug": "parenteral-anti-coagulants-102",
+   "generics count": 4
+ },
+ {
+   "drug class id": 101,
+   "drug class name": "Oral Anti-coagulants",
+   "slug": "oral-anti-coagulants-101",
+   "generics count": 3
+ },
+ {
+   "drug class id": 100,
+   "drug class name": "Hematopoietic drug",
+   "slug": "hematopoietic-drug-100",
+   "generics count": 1
+ },
+ {
+   "drug class id": 99,
+   "drug class name": "Fibrinolytics (Thrombolytics)",
+   "slug": "fibrinolytics-thrombolytics-99",
+   "generics count": 7
+ },
+ {
+   "drug class id": 633,
+   "drug class name": "Vaso Protective",
+   "slug": "vaso-protective-633",
+   "generics count": 1
+ },
+ {
+   "drug class id": 482,
+   "drug class name": "Other adrenoceptor stimulants",
+   "slug": "other-adrenoceptor-stimulants-482",
+   "generics count": 3
+ },
+ {
+   "drug class id": 552,
+   "drug class name": "Targeted Cancer Therapy",
+   "slug": "targeted-cancer-therapy-552",
+   "generics count": 18
+ },
+ {
+   "drug class id": 551,
+   "drug class name": "Supportive Care Therapy",
+   "slug": "supportive-care-therapy-551",
+   "generics count": 2
+ },
+ {
+   "drug class id": 643,
+   "drug class name": "Protein kinase inhibitor",
+   "slug": "protein-kinase-inhibitor-643",
+   "generics count": 2
+ },
+ {
+   "drug class id": 550,
+   "drug class name": "Immunological Chemotherapy",
+   "slug": "immunological-chemotherapy-550",
+   "generics count": 4
+ },
+ {
+   "drug class id": 549,
+   "drug class name": "Hormonal Chemotherapy",
+   "slug": "hormonal-chemotherapy-549",
+   "generics count": 5
+ },
+ {
+   "drug class id": 553,
+   "drug class name": "Cytotoxic immunosuppressants",
+   "slug": "cytotoxic-immunosuppressants-553",
+   "generics count": 3
+ },
+ {
+   "drug class id": 548,
+   "drug class name": "Cytotoxic Chemotherapy",
+   "slug": "cytotoxic-chemotherapy-548",
+   "generics count": 41
+ },
+ {
+   "drug class id": 88,
+   "drug class name": "Respiratory viral infections (Influenza)",
+   "slug": "respiratory-viral-infections-influenza-88",
+   "generics count": 3
+ },
+ {
+   "drug class id": 87,
+   "drug class name": "Herpes simplex & Varicella-zoster virus infections",
+   "slug": "herpes-simplex-varicella-zoster-virus-infections-87",
+   "generics count": 4
+ },
+ {
+   "drug class id": 86,
+   "drug class name": "Hepatic viral infections (Hepatitis C)",
+   "slug": "hepatic-viral-infections-hepatitis-c-86",
+   "generics count": 8
+ },
+ {
+   "drug class id": 85,
+   "drug class name": "Hepatic viral infections (Hepatitis B)",
+   "slug": "hepatic-viral-infections-hepatitis-b-85",
+   "generics count": 7
+ },
+ {
+   "drug class id": 83,
+   "drug class name": "Drugs for HIV / Anti-retroviral drugs",
+   "slug": "drugs-for-hiv-anti-retroviral-drugs-83",
+   "generics count": 10
+ },
+ {
+   "drug class id": 609,
+   "drug class name": "Anti-viral drugs",
+   "slug": "anti-viral-drugs-609",
+   "generics count": 4
+ },
+ {
+   "drug class id": 81,
+   "drug class name": "Leishmaniacides",
+   "slug": "leishmaniacides-81",
+   "generics count": 2
+ },
+ {
+   "drug class id": 82,
+   "drug class name": "Other Anti-protozoals",
+   "slug": "other-anti-protozoals-82",
+   "generics count": 2
+ },
+ {
+   "drug class id": 80,
+   "drug class name": "Anti-malarial drugs",
+   "slug": "anti-malarial-drugs-80",
+   "generics count": 10
+ },
+ {
+   "drug class id": 79,
+   "drug class name": "Amoebicides",
+   "slug": "amoebicides-79",
+   "generics count": 5
+ },
+ {
+   "drug class id": 78,
+   "drug class name": "Anthelmintic",
+   "slug": "anthelmintic-78",
+   "generics count": 5
+ },
+ {
+   "drug class id": 653,
+   "drug class name": "Echinocandins",
+   "slug": "echinocandins-653",
+   "generics count": 1
+ },
+ {
+   "drug class id": 77,
+   "drug class name": "Drugs for subcutaneous and mycoses",
+   "slug": "drugs-for-subcutaneous-and-mycoses-77",
+   "generics count": 8
+ },
+ {
+   "drug class id": 75,
+   "drug class name": "Third generation Cephalosporins",
+   "slug": "third-generation-cephalosporins-75",
+   "generics count": 10
+ },
+ {
+   "drug class id": 74,
+   "drug class name": "Tetracycline group of drugs",
+   "slug": "tetracycline-group-of-drugs-74",
+   "generics count": 6
+ },
+ {
+   "drug class id": 73,
+   "drug class name": "Sulphonamides & Trimethoprim",
+   "slug": "sulphonamides-trimethoprim-73",
+   "generics count": 1
+ },
+ {
+   "drug class id": 72,
+   "drug class name": "Second generation Cephalosporins",
+   "slug": "second-generation-cephalosporins-72",
+   "generics count": 5
+ },
+ {
+   "drug class id": 71,
+   "drug class name": "Penicillinase-resistant penicillins",
+   "slug": "penicillinase-resistant-penicillins-71",
+   "generics count": 2
+ },
+ {
+   "drug class id": 69,
+   "drug class name": "Other beta-lactam Antibiotics",
+   "slug": "other-beta-lactam-antibiotics-69",
+   "generics count": 6
+ },
+ {
+   "drug class id": 618,
+   "drug class name": "Other antibiotic",
+   "slug": "other-antibiotic-618",
+   "generics count": 2
+ },
+ {
+   "drug class id": 67,
+   "drug class name": "Mecillinams",
+   "slug": "mecillinams-67",
+   "generics count": 1
+ },
+ {
+   "drug class id": 610,
+   "drug class name": "Other antibacterial preparation",
+   "slug": "other-antibacterial-preparation-610",
+   "generics count": 8
+ },
+ {
+   "drug class id": 66,
+   "drug class name": "Macrolides",
+   "slug": "macrolides-66",
+   "generics count": 13
+ },
+ {
+   "drug class id": 65,
+   "drug class name": "Long acting penicillin",
+   "slug": "long-acting-penicillin-65",
+   "generics count": 1
+ },
+ {
+   "drug class id": 48,
+   "drug class name": "Depolarizing muscle relaxants",
+   "slug": "depolarizing-muscle-relaxants-48",
+   "generics count": 1
+ },
+ {
+   "drug class id": 47,
+   "drug class name": "Central Depolarizing muscle relaxants",
+   "slug": "central-depolarizing-muscle-relaxants-47",
+   "generics count": 1
+ },
+ {
+   "drug class id": 46,
+   "drug class name": "Regional anesthesia",
+   "slug": "regional-anesthesia-46",
+   "generics count": 3
+ },
+ {
+   "drug class id": 45,
+   "drug class name": "Local & Surface anesthesia",
+   "slug": "local-surface-anesthesia-45",
+   "generics count": 9
+ },
+ {
+   "drug class id": 44,
+   "drug class name": "Opioid analgesics",
+   "slug": "opioid-analgesics-44",
+   "generics count": 8
+ },
+ {
+   "drug class id": 43,
+   "drug class name": "Non opioid analgesics",
+   "slug": "non-opioid-analgesics-43",
+   "generics count": 4
+ },
+ {
+   "drug class id": 42,
+   "drug class name": "General (Intravenous) anesthetics",
+   "slug": "general-intravenous-anesthetics-42",
+   "generics count": 3
+ },
+ {
+   "drug class id": 41,
+   "drug class name": "General (Inhalation) anesthetics",
+   "slug": "general-inhalation-anesthetics-41",
+   "generics count": 3
+ },
+ {
+   "drug class id": 35,
+   "drug class name": "Benzodiazepine antagonist",
+   "slug": "benzodiazepine-antagonist-35",
+   "generics count": 2
+ },
+ {
+   "drug class id": 34,
+   "drug class name": "Anti-cholinesterases",
+   "slug": "anti-cholinesterases-34",
+   "generics count": 1
+ },
+ {
+   "drug class id": 26,
+   "drug class name": "Immunosuppressant",
+   "slug": "immunosuppressant-26",
+   "generics count": 14
+ },
+ {
+   "drug class id": 27,
+   "drug class name": "Vaccines, Anti-sera & Immunoglobulin",
+   "slug": "vaccines-anti-sera-immunoglobulin-27",
+   "generics count": 36
+ },
+ {
+   "drug class id": 25,
+   "drug class name": "Sedating Anti-histamine",
+   "slug": "sedating-anti-histamine-25",
+   "generics count": 10
+ },
+ {
+   "drug class id": 24,
+   "drug class name": "Non-sedating antihistamines",
+   "slug": "non-sedating-antihistamines-24",
+   "generics count": 9
+ },
+ {
+   "drug class id": 23,
+   "drug class name": "Corticosteroid",
+   "slug": "corticosteroid-23",
+   "generics count": 10
+ },
+ {
+   "drug class id": 22,
+   "drug class name": "Anti-histamine & decongestant",
+   "slug": "anti-histamine-decongestant-22",
+   "generics count": 1
+ }
+]
